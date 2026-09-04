@@ -57,3 +57,18 @@ fetch('https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/ani
 - **Dataset Maintainer:** [Z-150](https://github.com/Z-150) ⚡
 
 *Maintained with ❤️ by Z-150.*
+
+
+---
+
+### 🌟 Telegram Premium Animated Emoji Collection (`zulut30`)
+Koleksi **311+ Telegram Premium Animated Emojis** terindeks ID Telegram resmi dari `zulut30.github.io/premium-telegram-emoji/`.
+
+- **📁 Local Directory:** `assets/zulut30-premium-emoji/`
+- **📄 Metadata Index:** `assets/zulut30-premium-emoji/zulut30-index.json`
+- **🌐 CDN Base URL:** `https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/assets/zulut30-premium-emoji/`
+
+#### Contoh Penggunaan Direct CDN:
+```html
+<img src="https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/assets/zulut30-premium-emoji/5456140674028019486.png" width="48" height="48" alt="🚨" />
+```

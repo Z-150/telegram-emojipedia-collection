@@ -1,0 +1,3806 @@
+{
+  "Travel and Places": [
+    {
+      "name": "Ambulance",
+      "slug": "ambulance",
+      "path": "animated-emojis/Travel and Places/Ambulance.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Ambulance.webp"
+    },
+    {
+      "name": "Desert Island",
+      "slug": "desert-island",
+      "path": "animated-emojis/Travel and Places/Desert Island.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Desert Island.webp"
+    },
+    {
+      "name": "Taxi",
+      "slug": "taxi",
+      "path": "animated-emojis/Travel and Places/Taxi.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Taxi.webp"
+    },
+    {
+      "name": "House",
+      "slug": "house",
+      "path": "animated-emojis/Travel and Places/House.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/House.webp"
+    },
+    {
+      "name": "Airplane",
+      "slug": "airplane",
+      "path": "animated-emojis/Travel and Places/Airplane.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Airplane.webp"
+    },
+    {
+      "name": "Rocket",
+      "slug": "rocket",
+      "path": "animated-emojis/Travel and Places/Rocket.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Rocket.webp"
+    },
+    {
+      "name": "Automobile",
+      "slug": "automobile",
+      "path": "animated-emojis/Travel and Places/Automobile.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Automobile.webp"
+    },
+    {
+      "name": "Classical Building",
+      "slug": "classical-building",
+      "path": "animated-emojis/Travel and Places/Classical Building.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Classical Building.webp"
+    },
+    {
+      "name": "Beach With Umbrella",
+      "slug": "beach-with-umbrella",
+      "path": "animated-emojis/Travel and Places/Beach With Umbrella.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Beach With Umbrella.webp"
+    },
+    {
+      "name": "Hot Springs",
+      "slug": "hot-springs",
+      "path": "animated-emojis/Travel and Places/Hot Springs.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Hot Springs.webp"
+    },
+    {
+      "name": "Police Car",
+      "slug": "police-car",
+      "path": "animated-emojis/Travel and Places/Police Car.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Police Car.webp"
+    },
+    {
+      "name": "Motor Boat",
+      "slug": "motor-boat",
+      "path": "animated-emojis/Travel and Places/Motor Boat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Motor Boat.webp"
+    },
+    {
+      "name": "Moai",
+      "slug": "moai",
+      "path": "animated-emojis/Travel and Places/Moai.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Moai.webp"
+    },
+    {
+      "name": "Roller Coaster",
+      "slug": "roller-coaster",
+      "path": "animated-emojis/Travel and Places/Roller Coaster.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Roller Coaster.webp"
+    },
+    {
+      "name": "Camping",
+      "slug": "camping",
+      "path": "animated-emojis/Travel and Places/Camping.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Camping.webp"
+    },
+    {
+      "name": "Compass",
+      "slug": "compass",
+      "path": "animated-emojis/Travel and Places/Compass.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Compass.webp"
+    },
+    {
+      "name": "Locomotive",
+      "slug": "locomotive",
+      "path": "animated-emojis/Travel and Places/Locomotive.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Travel and Places/Locomotive.webp"
+    }
+  ],
+  "Flags": [
+    {
+      "name": "Flag China",
+      "slug": "flag-china",
+      "path": "animated-emojis/Flags/Flag China.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag China.webp"
+    },
+    {
+      "name": "Flag Argentina",
+      "slug": "flag-argentina",
+      "path": "animated-emojis/Flags/Flag Argentina.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Argentina.webp"
+    },
+    {
+      "name": "Flag Spain",
+      "slug": "flag-spain",
+      "path": "animated-emojis/Flags/Flag Spain.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Spain.webp"
+    },
+    {
+      "name": "Flag Uzbekistan",
+      "slug": "flag-uzbekistan",
+      "path": "animated-emojis/Flags/Flag Uzbekistan.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Uzbekistan.webp"
+    },
+    {
+      "name": "Flag Gabon",
+      "slug": "flag-gabon",
+      "path": "animated-emojis/Flags/Flag Gabon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Gabon.webp"
+    },
+    {
+      "name": "Flag Cote Divoire",
+      "slug": "flag-cote-divoire",
+      "path": "animated-emojis/Flags/Flag Cote Divoire.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Cote Divoire.webp"
+    },
+    {
+      "name": "Flag Singapore",
+      "slug": "flag-singapore",
+      "path": "animated-emojis/Flags/Flag Singapore.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Singapore.webp"
+    },
+    {
+      "name": "Flag Morocco",
+      "slug": "flag-morocco",
+      "path": "animated-emojis/Flags/Flag Morocco.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Morocco.webp"
+    },
+    {
+      "name": "Flag Austria",
+      "slug": "flag-austria",
+      "path": "animated-emojis/Flags/Flag Austria.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Austria.webp"
+    },
+    {
+      "name": "Pirate Flag",
+      "slug": "pirate-flag",
+      "path": "animated-emojis/Flags/Pirate Flag.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Pirate Flag.webp"
+    },
+    {
+      "name": "Flag Indonesia",
+      "slug": "flag-indonesia",
+      "path": "animated-emojis/Flags/Flag Indonesia.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Indonesia.webp"
+    },
+    {
+      "name": "Flag Ukraine",
+      "slug": "flag-ukraine",
+      "path": "animated-emojis/Flags/Flag Ukraine.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Ukraine.webp"
+    },
+    {
+      "name": "Flag Philippines",
+      "slug": "flag-philippines",
+      "path": "animated-emojis/Flags/Flag Philippines.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Philippines.webp"
+    },
+    {
+      "name": "Triangular Flag",
+      "slug": "triangular-flag",
+      "path": "animated-emojis/Flags/Triangular Flag.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Triangular Flag.webp"
+    },
+    {
+      "name": "Flag Sierra Leone",
+      "slug": "flag-sierra-leone",
+      "path": "animated-emojis/Flags/Flag Sierra Leone.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Sierra Leone.webp"
+    },
+    {
+      "name": "Flag Croatia",
+      "slug": "flag-croatia",
+      "path": "animated-emojis/Flags/Flag Croatia.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Croatia.webp"
+    },
+    {
+      "name": "Flag Mozambique",
+      "slug": "flag-mozambique",
+      "path": "animated-emojis/Flags/Flag Mozambique.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Mozambique.webp"
+    },
+    {
+      "name": "Flag Yemen",
+      "slug": "flag-yemen",
+      "path": "animated-emojis/Flags/Flag Yemen.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Yemen.webp"
+    },
+    {
+      "name": "Flag India",
+      "slug": "flag-india",
+      "path": "animated-emojis/Flags/Flag India.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag India.webp"
+    },
+    {
+      "name": "Flag Belarus",
+      "slug": "flag-belarus",
+      "path": "animated-emojis/Flags/Flag Belarus.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Belarus.webp"
+    },
+    {
+      "name": "Black Flag",
+      "slug": "black-flag",
+      "path": "animated-emojis/Flags/Black Flag.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Black Flag.webp"
+    },
+    {
+      "name": "Flag Jordan",
+      "slug": "flag-jordan",
+      "path": "animated-emojis/Flags/Flag Jordan.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Jordan.webp"
+    },
+    {
+      "name": "Flag Czechia",
+      "slug": "flag-czechia",
+      "path": "animated-emojis/Flags/Flag Czechia.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Czechia.webp"
+    },
+    {
+      "name": "Flag Poland",
+      "slug": "flag-poland",
+      "path": "animated-emojis/Flags/Flag Poland.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Poland.webp"
+    },
+    {
+      "name": "Flag Benin",
+      "slug": "flag-benin",
+      "path": "animated-emojis/Flags/Flag Benin.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Benin.webp"
+    },
+    {
+      "name": "Flag Myanmar Burma",
+      "slug": "flag-myanmar-burma",
+      "path": "animated-emojis/Flags/Flag Myanmar Burma.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Myanmar Burma.webp"
+    },
+    {
+      "name": "Flag Somalia",
+      "slug": "flag-somalia",
+      "path": "animated-emojis/Flags/Flag Somalia.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Somalia.webp"
+    },
+    {
+      "name": "Flag Russia",
+      "slug": "flag-russia",
+      "path": "animated-emojis/Flags/Flag Russia.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Russia.webp"
+    },
+    {
+      "name": "Flag Western Sahara",
+      "slug": "flag-western-sahara",
+      "path": "animated-emojis/Flags/Flag Western Sahara.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Western Sahara.webp"
+    },
+    {
+      "name": "Flag Bahamas",
+      "slug": "flag-bahamas",
+      "path": "animated-emojis/Flags/Flag Bahamas.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Bahamas.webp"
+    },
+    {
+      "name": "Flag Equatorial Guinea",
+      "slug": "flag-equatorial-guinea",
+      "path": "animated-emojis/Flags/Flag Equatorial Guinea.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Equatorial Guinea.webp"
+    },
+    {
+      "name": "Flag United States",
+      "slug": "flag-united-states",
+      "path": "animated-emojis/Flags/Flag United States.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag United States.webp"
+    },
+    {
+      "name": "Flag United Kingdom",
+      "slug": "flag-united-kingdom",
+      "path": "animated-emojis/Flags/Flag United Kingdom.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag United Kingdom.webp"
+    },
+    {
+      "name": "Flag United Arab Emirates",
+      "slug": "flag-united-arab-emirates",
+      "path": "animated-emojis/Flags/Flag United Arab Emirates.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag United Arab Emirates.webp"
+    },
+    {
+      "name": "Flag Peru",
+      "slug": "flag-peru",
+      "path": "animated-emojis/Flags/Flag Peru.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Peru.webp"
+    },
+    {
+      "name": "Flag France",
+      "slug": "flag-france",
+      "path": "animated-emojis/Flags/Flag France.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag France.webp"
+    },
+    {
+      "name": "Flag Germany",
+      "slug": "flag-germany",
+      "path": "animated-emojis/Flags/Flag Germany.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Germany.webp"
+    },
+    {
+      "name": "Flag Cameroon",
+      "slug": "flag-cameroon",
+      "path": "animated-emojis/Flags/Flag Cameroon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Cameroon.webp"
+    },
+    {
+      "name": "Chequered Flag",
+      "slug": "chequered-flag",
+      "path": "animated-emojis/Flags/Chequered Flag.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Chequered Flag.webp"
+    },
+    {
+      "name": "Flag Belgium",
+      "slug": "flag-belgium",
+      "path": "animated-emojis/Flags/Flag Belgium.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Belgium.webp"
+    },
+    {
+      "name": "Flag Palestinian Territories",
+      "slug": "flag-palestinian-territories",
+      "path": "animated-emojis/Flags/Flag Palestinian Territories.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Palestinian Territories.webp"
+    },
+    {
+      "name": "Flag Luxembourg",
+      "slug": "flag-luxembourg",
+      "path": "animated-emojis/Flags/Flag Luxembourg.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Luxembourg.webp"
+    },
+    {
+      "name": "Flag South Sudan",
+      "slug": "flag-south-sudan",
+      "path": "animated-emojis/Flags/Flag South Sudan.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag South Sudan.webp"
+    },
+    {
+      "name": "Flag Chad",
+      "slug": "flag-chad",
+      "path": "animated-emojis/Flags/Flag Chad.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Chad.webp"
+    },
+    {
+      "name": "Flag Sao Tome Principe",
+      "slug": "flag-sao-tome-principe",
+      "path": "animated-emojis/Flags/Flag Sao Tome Principe.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Sao Tome Principe.webp"
+    },
+    {
+      "name": "Flag Estonia",
+      "slug": "flag-estonia",
+      "path": "animated-emojis/Flags/Flag Estonia.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Estonia.webp"
+    },
+    {
+      "name": "Flag Brazil",
+      "slug": "flag-brazil",
+      "path": "animated-emojis/Flags/Flag Brazil.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Brazil.webp"
+    },
+    {
+      "name": "Flag Burkina Faso",
+      "slug": "flag-burkina-faso",
+      "path": "animated-emojis/Flags/Flag Burkina Faso.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Burkina Faso.webp"
+    },
+    {
+      "name": "Flag Senegal",
+      "slug": "flag-senegal",
+      "path": "animated-emojis/Flags/Flag Senegal.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Senegal.webp"
+    },
+    {
+      "name": "White Flag",
+      "slug": "white-flag",
+      "path": "animated-emojis/Flags/White Flag.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/White Flag.webp"
+    },
+    {
+      "name": "Flag Vietnam",
+      "slug": "flag-vietnam",
+      "path": "animated-emojis/Flags/Flag Vietnam.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Vietnam.webp"
+    },
+    {
+      "name": "Flag Sint Maarten",
+      "slug": "flag-sint-maarten",
+      "path": "animated-emojis/Flags/Flag Sint Maarten.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Sint Maarten.webp"
+    },
+    {
+      "name": "Flag Japan",
+      "slug": "flag-japan",
+      "path": "animated-emojis/Flags/Flag Japan.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Japan.webp"
+    },
+    {
+      "name": "Flag Madagascar",
+      "slug": "flag-madagascar",
+      "path": "animated-emojis/Flags/Flag Madagascar.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Madagascar.webp"
+    },
+    {
+      "name": "Flag Sudan",
+      "slug": "flag-sudan",
+      "path": "animated-emojis/Flags/Flag Sudan.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Sudan.webp"
+    },
+    {
+      "name": "Flag Romania",
+      "slug": "flag-romania",
+      "path": "animated-emojis/Flags/Flag Romania.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Romania.webp"
+    },
+    {
+      "name": "Flag Netherlands",
+      "slug": "flag-netherlands",
+      "path": "animated-emojis/Flags/Flag Netherlands.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Netherlands.webp"
+    },
+    {
+      "name": "Flag Hungary",
+      "slug": "flag-hungary",
+      "path": "animated-emojis/Flags/Flag Hungary.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Hungary.webp"
+    },
+    {
+      "name": "Flag Bulgaria",
+      "slug": "flag-bulgaria",
+      "path": "animated-emojis/Flags/Flag Bulgaria.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Bulgaria.webp"
+    },
+    {
+      "name": "Flag Monaco",
+      "slug": "flag-monaco",
+      "path": "animated-emojis/Flags/Flag Monaco.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Monaco.webp"
+    },
+    {
+      "name": "Flag Ireland",
+      "slug": "flag-ireland",
+      "path": "animated-emojis/Flags/Flag Ireland.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Ireland.webp"
+    },
+    {
+      "name": "Flag South Korea",
+      "slug": "flag-south-korea",
+      "path": "animated-emojis/Flags/Flag South Korea.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag South Korea.webp"
+    },
+    {
+      "name": "Flag Guinea Bissau",
+      "slug": "flag-guinea-bissau",
+      "path": "animated-emojis/Flags/Flag Guinea Bissau.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Guinea Bissau.webp"
+    },
+    {
+      "name": "Flag Nigeria",
+      "slug": "flag-nigeria",
+      "path": "animated-emojis/Flags/Flag Nigeria.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Nigeria.webp"
+    },
+    {
+      "name": "Flag Mali",
+      "slug": "flag-mali",
+      "path": "animated-emojis/Flags/Flag Mali.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Mali.webp"
+    },
+    {
+      "name": "Flag Italy",
+      "slug": "flag-italy",
+      "path": "animated-emojis/Flags/Flag Italy.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Italy.webp"
+    },
+    {
+      "name": "Flag Ghana",
+      "slug": "flag-ghana",
+      "path": "animated-emojis/Flags/Flag Ghana.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Ghana.webp"
+    },
+    {
+      "name": "Flag Armenia",
+      "slug": "flag-armenia",
+      "path": "animated-emojis/Flags/Flag Armenia.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Armenia.webp"
+    },
+    {
+      "name": "Flag Djibouti",
+      "slug": "flag-djibouti",
+      "path": "animated-emojis/Flags/Flag Djibouti.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Djibouti.webp"
+    },
+    {
+      "name": "Flag Saudi Arabia",
+      "slug": "flag-saudi-arabia",
+      "path": "animated-emojis/Flags/Flag Saudi Arabia.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Saudi Arabia.webp"
+    },
+    {
+      "name": "Flag Lithuania",
+      "slug": "flag-lithuania",
+      "path": "animated-emojis/Flags/Flag Lithuania.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Lithuania.webp"
+    },
+    {
+      "name": "Flag Guinea",
+      "slug": "flag-guinea",
+      "path": "animated-emojis/Flags/Flag Guinea.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Flags/Flag Guinea.webp"
+    }
+  ],
+  "Symbols": [
+    {
+      "name": "Libra",
+      "slug": "libra",
+      "path": "animated-emojis/Symbols/Libra.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Libra.webp"
+    },
+    {
+      "name": "Check Mark Button",
+      "slug": "check-mark-button",
+      "path": "animated-emojis/Symbols/Check Mark Button.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Check Mark Button.webp"
+    },
+    {
+      "name": "Anger Symbol",
+      "slug": "anger-symbol",
+      "path": "animated-emojis/Symbols/Anger Symbol.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Anger Symbol.webp"
+    },
+    {
+      "name": "Taurus",
+      "slug": "taurus",
+      "path": "animated-emojis/Symbols/Taurus.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Taurus.webp"
+    },
+    {
+      "name": "Cross Mark",
+      "slug": "cross-mark",
+      "path": "animated-emojis/Symbols/Cross Mark.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Cross Mark.webp"
+    },
+    {
+      "name": "No One Under Eighteen",
+      "slug": "no-one-under-eighteen",
+      "path": "animated-emojis/Symbols/No One Under Eighteen.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/No One Under Eighteen.webp"
+    },
+    {
+      "name": "Heart On Fire",
+      "slug": "heart-on-fire",
+      "path": "animated-emojis/Symbols/Heart On Fire.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Heart On Fire.webp"
+    },
+    {
+      "name": "Heart With Arrow",
+      "slug": "heart-with-arrow",
+      "path": "animated-emojis/Symbols/Heart With Arrow.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Heart With Arrow.webp"
+    },
+    {
+      "name": "Leo",
+      "slug": "leo",
+      "path": "animated-emojis/Symbols/Leo.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Leo.webp"
+    },
+    {
+      "name": "Yellow Heart",
+      "slug": "yellow-heart",
+      "path": "animated-emojis/Symbols/Yellow Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Yellow Heart.webp"
+    },
+    {
+      "name": "Green Heart",
+      "slug": "green-heart",
+      "path": "animated-emojis/Symbols/Green Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Green Heart.webp"
+    },
+    {
+      "name": "Broken Heart",
+      "slug": "broken-heart",
+      "path": "animated-emojis/Symbols/Broken Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Broken Heart.webp"
+    },
+    {
+      "name": "Love Letter",
+      "slug": "love-letter",
+      "path": "animated-emojis/Symbols/Love Letter.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Love Letter.webp"
+    },
+    {
+      "name": "Heart Decoration",
+      "slug": "heart-decoration",
+      "path": "animated-emojis/Symbols/Heart Decoration.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Heart Decoration.webp"
+    },
+    {
+      "name": "Pisces",
+      "slug": "pisces",
+      "path": "animated-emojis/Symbols/Pisces.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Pisces.webp"
+    },
+    {
+      "name": "Ok Button",
+      "slug": "ok-button",
+      "path": "animated-emojis/Symbols/Ok Button.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Ok Button.webp"
+    },
+    {
+      "name": "Kiss Mark",
+      "slug": "kiss-mark",
+      "path": "animated-emojis/Symbols/Kiss Mark.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Kiss Mark.webp"
+    },
+    {
+      "name": "Exclamation Mark",
+      "slug": "exclamation-mark",
+      "path": "animated-emojis/Symbols/Exclamation Mark.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Exclamation Mark.webp"
+    },
+    {
+      "name": "Zzz",
+      "slug": "zzz",
+      "path": "animated-emojis/Symbols/Zzz.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Zzz.webp"
+    },
+    {
+      "name": "Purple Heart",
+      "slug": "purple-heart",
+      "path": "animated-emojis/Symbols/Purple Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Purple Heart.webp"
+    },
+    {
+      "name": "Question Mark",
+      "slug": "question-mark",
+      "path": "animated-emojis/Symbols/Question Mark.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Question Mark.webp"
+    },
+    {
+      "name": "Cool Button",
+      "slug": "cool-button",
+      "path": "animated-emojis/Symbols/Cool Button.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Cool Button.webp"
+    },
+    {
+      "name": "Baby Symbol",
+      "slug": "baby-symbol",
+      "path": "animated-emojis/Symbols/Baby Symbol.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Baby Symbol.webp"
+    },
+    {
+      "name": "Capricorn",
+      "slug": "capricorn",
+      "path": "animated-emojis/Symbols/Capricorn.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Capricorn.webp"
+    },
+    {
+      "name": "Sagittarius",
+      "slug": "sagittarius",
+      "path": "animated-emojis/Symbols/Sagittarius.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Sagittarius.webp"
+    },
+    {
+      "name": "Orange Heart",
+      "slug": "orange-heart",
+      "path": "animated-emojis/Symbols/Orange Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Orange Heart.webp"
+    },
+    {
+      "name": "Exclamation Question Mark",
+      "slug": "exclamation-question-mark",
+      "path": "animated-emojis/Symbols/Exclamation Question Mark.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Exclamation Question Mark.webp"
+    },
+    {
+      "name": "Scorpio",
+      "slug": "scorpio",
+      "path": "animated-emojis/Symbols/Scorpio.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Scorpio.webp"
+    },
+    {
+      "name": "Heart Exclamation",
+      "slug": "heart-exclamation",
+      "path": "animated-emojis/Symbols/Heart Exclamation.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Heart Exclamation.webp"
+    },
+    {
+      "name": "White Heart",
+      "slug": "white-heart",
+      "path": "animated-emojis/Symbols/White Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/White Heart.webp"
+    },
+    {
+      "name": "Dizzy",
+      "slug": "dizzy",
+      "path": "animated-emojis/Symbols/Dizzy.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Dizzy.webp"
+    },
+    {
+      "name": "Thought Balloon",
+      "slug": "thought-balloon",
+      "path": "animated-emojis/Symbols/Thought Balloon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Thought Balloon.webp"
+    },
+    {
+      "name": "Heart With Ribbon",
+      "slug": "heart-with-ribbon",
+      "path": "animated-emojis/Symbols/Heart With Ribbon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Heart With Ribbon.webp"
+    },
+    {
+      "name": "Ophiuchus",
+      "slug": "ophiuchus",
+      "path": "animated-emojis/Symbols/Ophiuchus.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Ophiuchus.webp"
+    },
+    {
+      "name": "Passport Control",
+      "slug": "passport-control",
+      "path": "animated-emojis/Symbols/Passport Control.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Passport Control.webp"
+    },
+    {
+      "name": "Two Hearts",
+      "slug": "two-hearts",
+      "path": "animated-emojis/Symbols/Two Hearts.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Two Hearts.webp"
+    },
+    {
+      "name": "Brown Heart",
+      "slug": "brown-heart",
+      "path": "animated-emojis/Symbols/Brown Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Brown Heart.webp"
+    },
+    {
+      "name": "Hundred Points",
+      "slug": "hundred-points",
+      "path": "animated-emojis/Symbols/Hundred Points.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Hundred Points.webp"
+    },
+    {
+      "name": "Red Heart",
+      "slug": "red-heart",
+      "path": "animated-emojis/Symbols/Red Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Red Heart.webp"
+    },
+    {
+      "name": "Speech Balloon",
+      "slug": "speech-balloon",
+      "path": "animated-emojis/Symbols/Speech Balloon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Speech Balloon.webp"
+    },
+    {
+      "name": "Double Exclamation Mark",
+      "slug": "double-exclamation-mark",
+      "path": "animated-emojis/Symbols/Double Exclamation Mark.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Double Exclamation Mark.webp"
+    },
+    {
+      "name": "Growing Heart",
+      "slug": "growing-heart",
+      "path": "animated-emojis/Symbols/Growing Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Growing Heart.webp"
+    },
+    {
+      "name": "Gemini",
+      "slug": "gemini",
+      "path": "animated-emojis/Symbols/Gemini.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Gemini.webp"
+    },
+    {
+      "name": "Sparkling Heart",
+      "slug": "sparkling-heart",
+      "path": "animated-emojis/Symbols/Sparkling Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Sparkling Heart.webp"
+    },
+    {
+      "name": "Currency Exchange",
+      "slug": "currency-exchange",
+      "path": "animated-emojis/Symbols/Currency Exchange.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Currency Exchange.webp"
+    },
+    {
+      "name": "Beating Heart",
+      "slug": "beating-heart",
+      "path": "animated-emojis/Symbols/Beating Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Beating Heart.webp"
+    },
+    {
+      "name": "Black Heart",
+      "slug": "black-heart",
+      "path": "animated-emojis/Symbols/Black Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Black Heart.webp"
+    },
+    {
+      "name": "Aries",
+      "slug": "aries",
+      "path": "animated-emojis/Symbols/Aries.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Aries.webp"
+    },
+    {
+      "name": "White Exclamation Mark",
+      "slug": "white-exclamation-mark",
+      "path": "animated-emojis/Symbols/White Exclamation Mark.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/White Exclamation Mark.webp"
+    },
+    {
+      "name": "Free Button",
+      "slug": "free-button",
+      "path": "animated-emojis/Symbols/Free Button.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Free Button.webp"
+    },
+    {
+      "name": "Aquarius",
+      "slug": "aquarius",
+      "path": "animated-emojis/Symbols/Aquarius.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Aquarius.webp"
+    },
+    {
+      "name": "Virgo",
+      "slug": "virgo",
+      "path": "animated-emojis/Symbols/Virgo.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Virgo.webp"
+    },
+    {
+      "name": "Womens Room",
+      "slug": "womens-room",
+      "path": "animated-emojis/Symbols/Womens Room.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Womens Room.webp"
+    },
+    {
+      "name": "Baggage Claim",
+      "slug": "baggage-claim",
+      "path": "animated-emojis/Symbols/Baggage Claim.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Baggage Claim.webp"
+    },
+    {
+      "name": "Mending Heart",
+      "slug": "mending-heart",
+      "path": "animated-emojis/Symbols/Mending Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Mending Heart.webp"
+    },
+    {
+      "name": "Cancer",
+      "slug": "cancer",
+      "path": "animated-emojis/Symbols/Cancer.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Cancer.webp"
+    },
+    {
+      "name": "Mens Room",
+      "slug": "mens-room",
+      "path": "animated-emojis/Symbols/Mens Room.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Mens Room.webp"
+    },
+    {
+      "name": "White Question Mark",
+      "slug": "white-question-mark",
+      "path": "animated-emojis/Symbols/White Question Mark.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/White Question Mark.webp"
+    },
+    {
+      "name": "Up Button",
+      "slug": "up-button",
+      "path": "animated-emojis/Symbols/Up Button.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Up Button.webp"
+    },
+    {
+      "name": "Check Mark",
+      "slug": "check-mark",
+      "path": "animated-emojis/Symbols/Check Mark.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Check Mark.webp"
+    },
+    {
+      "name": "Revolving Hearts",
+      "slug": "revolving-hearts",
+      "path": "animated-emojis/Symbols/Revolving Hearts.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Revolving Hearts.webp"
+    },
+    {
+      "name": "Right Anger Bubble",
+      "slug": "right-anger-bubble",
+      "path": "animated-emojis/Symbols/Right Anger Bubble.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Right Anger Bubble.webp"
+    },
+    {
+      "name": "Left Luggage",
+      "slug": "left-luggage",
+      "path": "animated-emojis/Symbols/Left Luggage.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Left Luggage.webp"
+    },
+    {
+      "name": "Top Arrow",
+      "slug": "top-arrow",
+      "path": "animated-emojis/Symbols/Top Arrow.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Top Arrow.webp"
+    },
+    {
+      "name": "Customs",
+      "slug": "customs",
+      "path": "animated-emojis/Symbols/Customs.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Customs.webp"
+    },
+    {
+      "name": "Blue Heart",
+      "slug": "blue-heart",
+      "path": "animated-emojis/Symbols/Blue Heart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Blue Heart.webp"
+    },
+    {
+      "name": "New Button",
+      "slug": "new-button",
+      "path": "animated-emojis/Symbols/New Button.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/New Button.webp"
+    },
+    {
+      "name": "Collision",
+      "slug": "collision",
+      "path": "animated-emojis/Symbols/Collision.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Collision.webp"
+    },
+    {
+      "name": "Check Box With Check",
+      "slug": "check-box-with-check",
+      "path": "animated-emojis/Symbols/Check Box With Check.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Symbols/Check Box With Check.webp"
+    }
+  ],
+  "Objects": [
+    {
+      "name": "Memo",
+      "slug": "memo",
+      "path": "animated-emojis/Objects/Memo.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Memo.webp"
+    },
+    {
+      "name": "Ballot Box With Ballot",
+      "slug": "ballot-box-with-ballot",
+      "path": "animated-emojis/Objects/Ballot Box With Ballot.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Ballot Box With Ballot.webp"
+    },
+    {
+      "name": "Identification Card",
+      "slug": "identification-card",
+      "path": "animated-emojis/Objects/Identification Card.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Identification Card.webp"
+    },
+    {
+      "name": "Toolbox",
+      "slug": "toolbox",
+      "path": "animated-emojis/Objects/Toolbox.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Toolbox.webp"
+    },
+    {
+      "name": "Microscope",
+      "slug": "microscope",
+      "path": "animated-emojis/Objects/Microscope.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Microscope.webp"
+    },
+    {
+      "name": "Bar Chart",
+      "slug": "bar-chart",
+      "path": "animated-emojis/Objects/Bar Chart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Bar Chart.webp"
+    },
+    {
+      "name": "Mobile Phone",
+      "slug": "mobile-phone",
+      "path": "animated-emojis/Objects/Mobile Phone.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Mobile Phone.webp"
+    },
+    {
+      "name": "Military Helmet",
+      "slug": "military-helmet",
+      "path": "animated-emojis/Objects/Military Helmet.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Military Helmet.webp"
+    },
+    {
+      "name": "Megaphone",
+      "slug": "megaphone",
+      "path": "animated-emojis/Objects/Megaphone.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Megaphone.webp"
+    },
+    {
+      "name": "Money Bag",
+      "slug": "money-bag",
+      "path": "animated-emojis/Objects/Money Bag.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Money Bag.webp"
+    },
+    {
+      "name": "Bomb",
+      "slug": "bomb",
+      "path": "animated-emojis/Objects/Bomb.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Bomb.webp"
+    },
+    {
+      "name": "Soap",
+      "slug": "soap",
+      "path": "animated-emojis/Objects/Soap.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Soap.webp"
+    },
+    {
+      "name": "Pencil",
+      "slug": "pencil",
+      "path": "animated-emojis/Objects/Pencil.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Pencil.webp"
+    },
+    {
+      "name": "Sponge",
+      "slug": "sponge",
+      "path": "animated-emojis/Objects/Sponge.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Sponge.webp"
+    },
+    {
+      "name": "Card Index Dividers",
+      "slug": "card-index-dividers",
+      "path": "animated-emojis/Objects/Card Index Dividers.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Card Index Dividers.webp"
+    },
+    {
+      "name": "Test Tube",
+      "slug": "test-tube",
+      "path": "animated-emojis/Objects/Test Tube.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Test Tube.webp"
+    },
+    {
+      "name": "Outbox Tray",
+      "slug": "outbox-tray",
+      "path": "animated-emojis/Objects/Outbox Tray.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Outbox Tray.webp"
+    },
+    {
+      "name": "Books",
+      "slug": "books",
+      "path": "animated-emojis/Objects/Books.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Books.webp"
+    },
+    {
+      "name": "Light Bulb",
+      "slug": "light-bulb",
+      "path": "animated-emojis/Objects/Light Bulb.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Light Bulb.webp"
+    },
+    {
+      "name": "Mobile Phone With Arrow",
+      "slug": "mobile-phone-with-arrow",
+      "path": "animated-emojis/Objects/Mobile Phone With Arrow.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Mobile Phone With Arrow.webp"
+    },
+    {
+      "name": "Hourglass Not Done",
+      "slug": "hourglass-not-done",
+      "path": "animated-emojis/Objects/Hourglass Not Done.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Hourglass Not Done.webp"
+    },
+    {
+      "name": "Handbag",
+      "slug": "handbag",
+      "path": "animated-emojis/Objects/Handbag.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Handbag.webp"
+    },
+    {
+      "name": "Television",
+      "slug": "television",
+      "path": "animated-emojis/Objects/Television.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Television.webp"
+    },
+    {
+      "name": "Crown",
+      "slug": "crown",
+      "path": "animated-emojis/Objects/Crown.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Crown.webp"
+    },
+    {
+      "name": "Incoming Envelope",
+      "slug": "incoming-envelope",
+      "path": "animated-emojis/Objects/Incoming Envelope.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Incoming Envelope.webp"
+    },
+    {
+      "name": "Chart Increasing",
+      "slug": "chart-increasing",
+      "path": "animated-emojis/Objects/Chart Increasing.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Chart Increasing.webp"
+    },
+    {
+      "name": "Coin",
+      "slug": "coin",
+      "path": "animated-emojis/Objects/Coin.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Coin.webp"
+    },
+    {
+      "name": "Abacus",
+      "slug": "abacus",
+      "path": "animated-emojis/Objects/Abacus.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Abacus.webp"
+    },
+    {
+      "name": "Open Book",
+      "slug": "open-book",
+      "path": "animated-emojis/Objects/Open Book.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Open Book.webp"
+    },
+    {
+      "name": "Graduation Cap",
+      "slug": "graduation-cap",
+      "path": "animated-emojis/Objects/Graduation Cap.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Graduation Cap.webp"
+    },
+    {
+      "name": "Thermometer",
+      "slug": "thermometer",
+      "path": "animated-emojis/Objects/Thermometer.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Thermometer.webp"
+    },
+    {
+      "name": "File Folder",
+      "slug": "file-folder",
+      "path": "animated-emojis/Objects/File Folder.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/File Folder.webp"
+    },
+    {
+      "name": "Pill",
+      "slug": "pill",
+      "path": "animated-emojis/Objects/Pill.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Pill.webp"
+    },
+    {
+      "name": "Musical Note",
+      "slug": "musical-note",
+      "path": "animated-emojis/Objects/Musical Note.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Musical Note.webp"
+    },
+    {
+      "name": "Magnifying Glass Tilted Right",
+      "slug": "magnifying-glass-tilted-right",
+      "path": "animated-emojis/Objects/Magnifying Glass Tilted Right.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Magnifying Glass Tilted Right.webp"
+    },
+    {
+      "name": "Inbox Tray",
+      "slug": "inbox-tray",
+      "path": "animated-emojis/Objects/Inbox Tray.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Inbox Tray.webp"
+    },
+    {
+      "name": "Printer",
+      "slug": "printer",
+      "path": "animated-emojis/Objects/Printer.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Printer.webp"
+    },
+    {
+      "name": "Reminder Ribbon",
+      "slug": "reminder-ribbon",
+      "path": "animated-emojis/Objects/Reminder Ribbon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Reminder Ribbon.webp"
+    },
+    {
+      "name": "Key",
+      "slug": "key",
+      "path": "animated-emojis/Objects/Key.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Key.webp"
+    },
+    {
+      "name": "Newspaper",
+      "slug": "newspaper",
+      "path": "animated-emojis/Objects/Newspaper.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Newspaper.webp"
+    },
+    {
+      "name": "High Heeled Shoe",
+      "slug": "high-heeled-shoe",
+      "path": "animated-emojis/Objects/High Heeled Shoe.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/High Heeled Shoe.webp"
+    },
+    {
+      "name": "Telephone Receiver",
+      "slug": "telephone-receiver",
+      "path": "animated-emojis/Objects/Telephone Receiver.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Telephone Receiver.webp"
+    },
+    {
+      "name": "Hourglass Done",
+      "slug": "hourglass-done",
+      "path": "animated-emojis/Objects/Hourglass Done.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Hourglass Done.webp"
+    },
+    {
+      "name": "Stethoscope",
+      "slug": "stethoscope",
+      "path": "animated-emojis/Objects/Stethoscope.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Stethoscope.webp"
+    },
+    {
+      "name": "Musical Notes",
+      "slug": "musical-notes",
+      "path": "animated-emojis/Objects/Musical Notes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Musical Notes.webp"
+    },
+    {
+      "name": "Coffin",
+      "slug": "coffin",
+      "path": "animated-emojis/Objects/Coffin.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Coffin.webp"
+    },
+    {
+      "name": "Clapper Board",
+      "slug": "clapper-board",
+      "path": "animated-emojis/Objects/Clapper Board.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Clapper Board.webp"
+    },
+    {
+      "name": "Purse",
+      "slug": "purse",
+      "path": "animated-emojis/Objects/Purse.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Purse.webp"
+    },
+    {
+      "name": "Magnifying Glass Tilted Left",
+      "slug": "magnifying-glass-tilted-left",
+      "path": "animated-emojis/Objects/Magnifying Glass Tilted Left.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Magnifying Glass Tilted Left.webp"
+    },
+    {
+      "name": "Old Key",
+      "slug": "old-key",
+      "path": "animated-emojis/Objects/Old Key.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Old Key.webp"
+    },
+    {
+      "name": "Briefcase",
+      "slug": "briefcase",
+      "path": "animated-emojis/Objects/Briefcase.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Briefcase.webp"
+    },
+    {
+      "name": "Tear Off Calendar",
+      "slug": "tear-off-calendar",
+      "path": "animated-emojis/Objects/Tear Off Calendar.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Tear Off Calendar.webp"
+    },
+    {
+      "name": "Telescope",
+      "slug": "telescope",
+      "path": "animated-emojis/Objects/Telescope.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Telescope.webp"
+    },
+    {
+      "name": "Locked With Key",
+      "slug": "locked-with-key",
+      "path": "animated-emojis/Objects/Locked With Key.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Locked With Key.webp"
+    },
+    {
+      "name": "Laptop",
+      "slug": "laptop",
+      "path": "animated-emojis/Objects/Laptop.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Laptop.webp"
+    },
+    {
+      "name": "Telephone",
+      "slug": "telephone",
+      "path": "animated-emojis/Objects/Telephone.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Telephone.webp"
+    },
+    {
+      "name": "Chart Decreasing",
+      "slug": "chart-decreasing",
+      "path": "animated-emojis/Objects/Chart Decreasing.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Chart Decreasing.webp"
+    },
+    {
+      "name": "Top Hat",
+      "slug": "top-hat",
+      "path": "animated-emojis/Objects/Top Hat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Top Hat.webp"
+    },
+    {
+      "name": "Studio Microphone",
+      "slug": "studio-microphone",
+      "path": "animated-emojis/Objects/Studio Microphone.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Studio Microphone.webp"
+    },
+    {
+      "name": "Shopping Bags",
+      "slug": "shopping-bags",
+      "path": "animated-emojis/Objects/Shopping Bags.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Shopping Bags.webp"
+    },
+    {
+      "name": "Money With Wings",
+      "slug": "money-with-wings",
+      "path": "animated-emojis/Objects/Money With Wings.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Money With Wings.webp"
+    },
+    {
+      "name": "Gem Stone",
+      "slug": "gem-stone",
+      "path": "animated-emojis/Objects/Gem Stone.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Gem Stone.webp"
+    },
+    {
+      "name": "Syringe",
+      "slug": "syringe",
+      "path": "animated-emojis/Objects/Syringe.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Syringe.webp"
+    },
+    {
+      "name": "Microphone",
+      "slug": "microphone",
+      "path": "animated-emojis/Objects/Microphone.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Microphone.webp"
+    },
+    {
+      "name": "Roll Of Paper",
+      "slug": "roll-of-paper",
+      "path": "animated-emojis/Objects/Roll Of Paper.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Roll Of Paper.webp"
+    },
+    {
+      "name": "Keyboard",
+      "slug": "keyboard",
+      "path": "animated-emojis/Objects/Keyboard.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Keyboard.webp"
+    },
+    {
+      "name": "Luggage",
+      "slug": "luggage",
+      "path": "animated-emojis/Objects/Luggage.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Luggage.webp"
+    },
+    {
+      "name": "Shopping Cart",
+      "slug": "shopping-cart",
+      "path": "animated-emojis/Objects/Shopping Cart.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Objects/Shopping Cart.webp"
+    }
+  ],
+  "Food and Drink": [
+    {
+      "name": "Glass Of Milk",
+      "slug": "glass-of-milk",
+      "path": "animated-emojis/Food and Drink/Glass Of Milk.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Glass Of Milk.webp"
+    },
+    {
+      "name": "Poultry Leg",
+      "slug": "poultry-leg",
+      "path": "animated-emojis/Food and Drink/Poultry Leg.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Poultry Leg.webp"
+    },
+    {
+      "name": "Popcorn",
+      "slug": "popcorn",
+      "path": "animated-emojis/Food and Drink/Popcorn.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Popcorn.webp"
+    },
+    {
+      "name": "Lollipop",
+      "slug": "lollipop",
+      "path": "animated-emojis/Food and Drink/Lollipop.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Lollipop.webp"
+    },
+    {
+      "name": "Baby Bottle",
+      "slug": "baby-bottle",
+      "path": "animated-emojis/Food and Drink/Baby Bottle.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Baby Bottle.webp"
+    },
+    {
+      "name": "Rice Cracker",
+      "slug": "rice-cracker",
+      "path": "animated-emojis/Food and Drink/Rice Cracker.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Rice Cracker.webp"
+    },
+    {
+      "name": "Doughnut",
+      "slug": "doughnut",
+      "path": "animated-emojis/Food and Drink/Doughnut.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Doughnut.webp"
+    },
+    {
+      "name": "Soft Ice Cream",
+      "slug": "soft-ice-cream",
+      "path": "animated-emojis/Food and Drink/Soft Ice Cream.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Soft Ice Cream.webp"
+    },
+    {
+      "name": "Taco",
+      "slug": "taco",
+      "path": "animated-emojis/Food and Drink/Taco.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Taco.webp"
+    },
+    {
+      "name": "Rice Ball",
+      "slug": "rice-ball",
+      "path": "animated-emojis/Food and Drink/Rice Ball.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Rice Ball.webp"
+    },
+    {
+      "name": "Shortcake",
+      "slug": "shortcake",
+      "path": "animated-emojis/Food and Drink/Shortcake.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Shortcake.webp"
+    },
+    {
+      "name": "Sandwich",
+      "slug": "sandwich",
+      "path": "animated-emojis/Food and Drink/Sandwich.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Sandwich.webp"
+    },
+    {
+      "name": "Clinking Glasses",
+      "slug": "clinking-glasses",
+      "path": "animated-emojis/Food and Drink/Clinking Glasses.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Clinking Glasses.webp"
+    },
+    {
+      "name": "Mate",
+      "slug": "mate",
+      "path": "animated-emojis/Food and Drink/Mate.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Mate.webp"
+    },
+    {
+      "name": "Banana",
+      "slug": "banana",
+      "path": "animated-emojis/Food and Drink/Banana.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Banana.webp"
+    },
+    {
+      "name": "Canned Food",
+      "slug": "canned-food",
+      "path": "animated-emojis/Food and Drink/Canned Food.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Canned Food.webp"
+    },
+    {
+      "name": "Pretzel",
+      "slug": "pretzel",
+      "path": "animated-emojis/Food and Drink/Pretzel.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Pretzel.webp"
+    },
+    {
+      "name": "Bento Box",
+      "slug": "bento-box",
+      "path": "animated-emojis/Food and Drink/Bento Box.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Bento Box.webp"
+    },
+    {
+      "name": "Pouring Liquid",
+      "slug": "pouring-liquid",
+      "path": "animated-emojis/Food and Drink/Pouring Liquid.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Pouring Liquid.webp"
+    },
+    {
+      "name": "Beverage Box",
+      "slug": "beverage-box",
+      "path": "animated-emojis/Food and Drink/Beverage Box.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Beverage Box.webp"
+    },
+    {
+      "name": "French Fries",
+      "slug": "french-fries",
+      "path": "animated-emojis/Food and Drink/French Fries.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/French Fries.webp"
+    },
+    {
+      "name": "Cookie",
+      "slug": "cookie",
+      "path": "animated-emojis/Food and Drink/Cookie.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Cookie.webp"
+    },
+    {
+      "name": "Stuffed Flatbread",
+      "slug": "stuffed-flatbread",
+      "path": "animated-emojis/Food and Drink/Stuffed Flatbread.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Stuffed Flatbread.webp"
+    },
+    {
+      "name": "Dango",
+      "slug": "dango",
+      "path": "animated-emojis/Food and Drink/Dango.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Dango.webp"
+    },
+    {
+      "name": "Cup With Straw",
+      "slug": "cup-with-straw",
+      "path": "animated-emojis/Food and Drink/Cup With Straw.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Cup With Straw.webp"
+    },
+    {
+      "name": "Cocktail Glass",
+      "slug": "cocktail-glass",
+      "path": "animated-emojis/Food and Drink/Cocktail Glass.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Cocktail Glass.webp"
+    },
+    {
+      "name": "Custard",
+      "slug": "custard",
+      "path": "animated-emojis/Food and Drink/Custard.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Custard.webp"
+    },
+    {
+      "name": "Hot Beverage",
+      "slug": "hot-beverage",
+      "path": "animated-emojis/Food and Drink/Hot Beverage.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Hot Beverage.webp"
+    },
+    {
+      "name": "Meat On Bone",
+      "slug": "meat-on-bone",
+      "path": "animated-emojis/Food and Drink/Meat On Bone.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Meat On Bone.webp"
+    },
+    {
+      "name": "Tropical Drink",
+      "slug": "tropical-drink",
+      "path": "animated-emojis/Food and Drink/Tropical Drink.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Tropical Drink.webp"
+    },
+    {
+      "name": "Wine Glass",
+      "slug": "wine-glass",
+      "path": "animated-emojis/Food and Drink/Wine Glass.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Wine Glass.webp"
+    },
+    {
+      "name": "Pie",
+      "slug": "pie",
+      "path": "animated-emojis/Food and Drink/Pie.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Pie.webp"
+    },
+    {
+      "name": "Cooking",
+      "slug": "cooking",
+      "path": "animated-emojis/Food and Drink/Cooking.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Cooking.webp"
+    },
+    {
+      "name": "Pizza",
+      "slug": "pizza",
+      "path": "animated-emojis/Food and Drink/Pizza.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Pizza.webp"
+    },
+    {
+      "name": "Bottle With Popping Cork",
+      "slug": "bottle-with-popping-cork",
+      "path": "animated-emojis/Food and Drink/Bottle With Popping Cork.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Bottle With Popping Cork.webp"
+    },
+    {
+      "name": "Fish Cake With Swirl",
+      "slug": "fish-cake-with-swirl",
+      "path": "animated-emojis/Food and Drink/Fish Cake With Swirl.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Fish Cake With Swirl.webp"
+    },
+    {
+      "name": "Bubble Tea",
+      "slug": "bubble-tea",
+      "path": "animated-emojis/Food and Drink/Bubble Tea.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Bubble Tea.webp"
+    },
+    {
+      "name": "Chocolate Bar",
+      "slug": "chocolate-bar",
+      "path": "animated-emojis/Food and Drink/Chocolate Bar.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Chocolate Bar.webp"
+    },
+    {
+      "name": "Strawberry",
+      "slug": "strawberry",
+      "path": "animated-emojis/Food and Drink/Strawberry.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Strawberry.webp"
+    },
+    {
+      "name": "Birthday Cake",
+      "slug": "birthday-cake",
+      "path": "animated-emojis/Food and Drink/Birthday Cake.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Birthday Cake.webp"
+    },
+    {
+      "name": "Pancakes",
+      "slug": "pancakes",
+      "path": "animated-emojis/Food and Drink/Pancakes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Pancakes.webp"
+    },
+    {
+      "name": "Tumbler Glass",
+      "slug": "tumbler-glass",
+      "path": "animated-emojis/Food and Drink/Tumbler Glass.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Tumbler Glass.webp"
+    },
+    {
+      "name": "Sushi",
+      "slug": "sushi",
+      "path": "animated-emojis/Food and Drink/Sushi.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Sushi.webp"
+    },
+    {
+      "name": "Hot Dog",
+      "slug": "hot-dog",
+      "path": "animated-emojis/Food and Drink/Hot Dog.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Hot Dog.webp"
+    },
+    {
+      "name": "Oden",
+      "slug": "oden",
+      "path": "animated-emojis/Food and Drink/Oden.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Oden.webp"
+    },
+    {
+      "name": "Cupcake",
+      "slug": "cupcake",
+      "path": "animated-emojis/Food and Drink/Cupcake.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Cupcake.webp"
+    },
+    {
+      "name": "Fork And Knife With Plate",
+      "slug": "fork-and-knife-with-plate",
+      "path": "animated-emojis/Food and Drink/Fork And Knife With Plate.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Fork And Knife With Plate.webp"
+    },
+    {
+      "name": "Hamburger",
+      "slug": "hamburger",
+      "path": "animated-emojis/Food and Drink/Hamburger.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Food and Drink/Hamburger.webp"
+    }
+  ],
+  "Animals and Nature": [
+    {
+      "name": "Pig Nose",
+      "slug": "pig-nose",
+      "path": "animated-emojis/Animals and Nature/Pig Nose.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Pig Nose.webp"
+    },
+    {
+      "name": "Tiger",
+      "slug": "tiger",
+      "path": "animated-emojis/Animals and Nature/Tiger.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Tiger.webp"
+    },
+    {
+      "name": "Pig Face",
+      "slug": "pig-face",
+      "path": "animated-emojis/Animals and Nature/Pig Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Pig Face.webp"
+    },
+    {
+      "name": "Fish",
+      "slug": "fish",
+      "path": "animated-emojis/Animals and Nature/Fish.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Fish.webp"
+    },
+    {
+      "name": "New Moon",
+      "slug": "new-moon",
+      "path": "animated-emojis/Animals and Nature/New Moon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/New Moon.webp"
+    },
+    {
+      "name": "Bison",
+      "slug": "bison",
+      "path": "animated-emojis/Animals and Nature/Bison.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Bison.webp"
+    },
+    {
+      "name": "Llama",
+      "slug": "llama",
+      "path": "animated-emojis/Animals and Nature/Llama.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Llama.webp"
+    },
+    {
+      "name": "Turtle",
+      "slug": "turtle",
+      "path": "animated-emojis/Animals and Nature/Turtle.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Turtle.webp"
+    },
+    {
+      "name": "Bouquet",
+      "slug": "bouquet",
+      "path": "animated-emojis/Animals and Nature/Bouquet.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Bouquet.webp"
+    },
+    {
+      "name": "Cat Face",
+      "slug": "cat-face",
+      "path": "animated-emojis/Animals and Nature/Cat Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cat Face.webp"
+    },
+    {
+      "name": "Evergreen Tree",
+      "slug": "evergreen-tree",
+      "path": "animated-emojis/Animals and Nature/Evergreen Tree.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Evergreen Tree.webp"
+    },
+    {
+      "name": "Cloud",
+      "slug": "cloud",
+      "path": "animated-emojis/Animals and Nature/Cloud.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cloud.webp"
+    },
+    {
+      "name": "Cockroach",
+      "slug": "cockroach",
+      "path": "animated-emojis/Animals and Nature/Cockroach.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cockroach.webp"
+    },
+    {
+      "name": "Kangaroo",
+      "slug": "kangaroo",
+      "path": "animated-emojis/Animals and Nature/Kangaroo.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Kangaroo.webp"
+    },
+    {
+      "name": "Palm Tree",
+      "slug": "palm-tree",
+      "path": "animated-emojis/Animals and Nature/Palm Tree.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Palm Tree.webp"
+    },
+    {
+      "name": "Front Facing Baby Chick",
+      "slug": "front-facing-baby-chick",
+      "path": "animated-emojis/Animals and Nature/Front Facing Baby Chick.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Front Facing Baby Chick.webp"
+    },
+    {
+      "name": "Cow",
+      "slug": "cow",
+      "path": "animated-emojis/Animals and Nature/Cow.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cow.webp"
+    },
+    {
+      "name": "Horse Face",
+      "slug": "horse-face",
+      "path": "animated-emojis/Animals and Nature/Horse Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Horse Face.webp"
+    },
+    {
+      "name": "Rainbow",
+      "slug": "rainbow",
+      "path": "animated-emojis/Animals and Nature/Rainbow.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Rainbow.webp"
+    },
+    {
+      "name": "Octopus",
+      "slug": "octopus",
+      "path": "animated-emojis/Animals and Nature/Octopus.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Octopus.webp"
+    },
+    {
+      "name": "Cloud With Lightning",
+      "slug": "cloud-with-lightning",
+      "path": "animated-emojis/Animals and Nature/Cloud With Lightning.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cloud With Lightning.webp"
+    },
+    {
+      "name": "Shamrock",
+      "slug": "shamrock",
+      "path": "animated-emojis/Animals and Nature/Shamrock.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Shamrock.webp"
+    },
+    {
+      "name": "Bug",
+      "slug": "bug",
+      "path": "animated-emojis/Animals and Nature/Bug.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Bug.webp"
+    },
+    {
+      "name": "Swan",
+      "slug": "swan",
+      "path": "animated-emojis/Animals and Nature/Swan.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Swan.webp"
+    },
+    {
+      "name": "Mouse Face",
+      "slug": "mouse-face",
+      "path": "animated-emojis/Animals and Nature/Mouse Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Mouse Face.webp"
+    },
+    {
+      "name": "Squid",
+      "slug": "squid",
+      "path": "animated-emojis/Animals and Nature/Squid.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Squid.webp"
+    },
+    {
+      "name": "Cricket",
+      "slug": "cricket",
+      "path": "animated-emojis/Animals and Nature/Cricket.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cricket.webp"
+    },
+    {
+      "name": "Zebra",
+      "slug": "zebra",
+      "path": "animated-emojis/Animals and Nature/Zebra.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Zebra.webp"
+    },
+    {
+      "name": "Duck",
+      "slug": "duck",
+      "path": "animated-emojis/Animals and Nature/Duck.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Duck.webp"
+    },
+    {
+      "name": "Penguin",
+      "slug": "penguin",
+      "path": "animated-emojis/Animals and Nature/Penguin.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Penguin.webp"
+    },
+    {
+      "name": "Owl",
+      "slug": "owl",
+      "path": "animated-emojis/Animals and Nature/Owl.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Owl.webp"
+    },
+    {
+      "name": "Monkey Face",
+      "slug": "monkey-face",
+      "path": "animated-emojis/Animals and Nature/Monkey Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Monkey Face.webp"
+    },
+    {
+      "name": "Shrimp",
+      "slug": "shrimp",
+      "path": "animated-emojis/Animals and Nature/Shrimp.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Shrimp.webp"
+    },
+    {
+      "name": "Honeybee",
+      "slug": "honeybee",
+      "path": "animated-emojis/Animals and Nature/Honeybee.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Honeybee.webp"
+    },
+    {
+      "name": "Deciduous Tree",
+      "slug": "deciduous-tree",
+      "path": "animated-emojis/Animals and Nature/Deciduous Tree.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Deciduous Tree.webp"
+    },
+    {
+      "name": "Giraffe",
+      "slug": "giraffe",
+      "path": "animated-emojis/Animals and Nature/Giraffe.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Giraffe.webp"
+    },
+    {
+      "name": "Fire",
+      "slug": "fire",
+      "path": "animated-emojis/Animals and Nature/Fire.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Fire.webp"
+    },
+    {
+      "name": "Full Moon",
+      "slug": "full-moon",
+      "path": "animated-emojis/Animals and Nature/Full Moon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Full Moon.webp"
+    },
+    {
+      "name": "Paw Prints",
+      "slug": "paw-prints",
+      "path": "animated-emojis/Animals and Nature/Paw Prints.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Paw Prints.webp"
+    },
+    {
+      "name": "Snowman Without Snow",
+      "slug": "snowman-without-snow",
+      "path": "animated-emojis/Animals and Nature/Snowman Without Snow.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Snowman Without Snow.webp"
+    },
+    {
+      "name": "Butterfly",
+      "slug": "butterfly",
+      "path": "animated-emojis/Animals and Nature/Butterfly.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Butterfly.webp"
+    },
+    {
+      "name": "Parrot",
+      "slug": "parrot",
+      "path": "animated-emojis/Animals and Nature/Parrot.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Parrot.webp"
+    },
+    {
+      "name": "Leopard",
+      "slug": "leopard",
+      "path": "animated-emojis/Animals and Nature/Leopard.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Leopard.webp"
+    },
+    {
+      "name": "Dove",
+      "slug": "dove",
+      "path": "animated-emojis/Animals and Nature/Dove.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Dove.webp"
+    },
+    {
+      "name": "Cloud With Lightning And Rain",
+      "slug": "cloud-with-lightning-and-rain",
+      "path": "animated-emojis/Animals and Nature/Cloud With Lightning And Rain.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cloud With Lightning And Rain.webp"
+    },
+    {
+      "name": "New Moon Face",
+      "slug": "new-moon-face",
+      "path": "animated-emojis/Animals and Nature/New Moon Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/New Moon Face.webp"
+    },
+    {
+      "name": "Snake",
+      "slug": "snake",
+      "path": "animated-emojis/Animals and Nature/Snake.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Snake.webp"
+    },
+    {
+      "name": "Mosquito",
+      "slug": "mosquito",
+      "path": "animated-emojis/Animals and Nature/Mosquito.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Mosquito.webp"
+    },
+    {
+      "name": "Cloud With Snow",
+      "slug": "cloud-with-snow",
+      "path": "animated-emojis/Animals and Nature/Cloud With Snow.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cloud With Snow.webp"
+    },
+    {
+      "name": "Sun Behind Rain Cloud",
+      "slug": "sun-behind-rain-cloud",
+      "path": "animated-emojis/Animals and Nature/Sun Behind Rain Cloud.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Sun Behind Rain Cloud.webp"
+    },
+    {
+      "name": "Hamster",
+      "slug": "hamster",
+      "path": "animated-emojis/Animals and Nature/Hamster.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Hamster.webp"
+    },
+    {
+      "name": "Ant",
+      "slug": "ant",
+      "path": "animated-emojis/Animals and Nature/Ant.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Ant.webp"
+    },
+    {
+      "name": "Herb",
+      "slug": "herb",
+      "path": "animated-emojis/Animals and Nature/Herb.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Herb.webp"
+    },
+    {
+      "name": "Beetle",
+      "slug": "beetle",
+      "path": "animated-emojis/Animals and Nature/Beetle.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Beetle.webp"
+    },
+    {
+      "name": "Polar Bear",
+      "slug": "polar-bear",
+      "path": "animated-emojis/Animals and Nature/Polar Bear.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Polar Bear.webp"
+    },
+    {
+      "name": "First Quarter Moon Face",
+      "slug": "first-quarter-moon-face",
+      "path": "animated-emojis/Animals and Nature/First Quarter Moon Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/First Quarter Moon Face.webp"
+    },
+    {
+      "name": "Four Leaf Clover",
+      "slug": "four-leaf-clover",
+      "path": "animated-emojis/Animals and Nature/Four Leaf Clover.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Four Leaf Clover.webp"
+    },
+    {
+      "name": "Hatching Chick",
+      "slug": "hatching-chick",
+      "path": "animated-emojis/Animals and Nature/Hatching Chick.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Hatching Chick.webp"
+    },
+    {
+      "name": "Sun Behind Large Cloud",
+      "slug": "sun-behind-large-cloud",
+      "path": "animated-emojis/Animals and Nature/Sun Behind Large Cloud.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Sun Behind Large Cloud.webp"
+    },
+    {
+      "name": "Last Quarter Moon Face",
+      "slug": "last-quarter-moon-face",
+      "path": "animated-emojis/Animals and Nature/Last Quarter Moon Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Last Quarter Moon Face.webp"
+    },
+    {
+      "name": "Unicorn",
+      "slug": "unicorn",
+      "path": "animated-emojis/Animals and Nature/Unicorn.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Unicorn.webp"
+    },
+    {
+      "name": "Turkey",
+      "slug": "turkey",
+      "path": "animated-emojis/Animals and Nature/Turkey.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Turkey.webp"
+    },
+    {
+      "name": "Flamingo",
+      "slug": "flamingo",
+      "path": "animated-emojis/Animals and Nature/Flamingo.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Flamingo.webp"
+    },
+    {
+      "name": "Waxing Crescent Moon",
+      "slug": "waxing-crescent-moon",
+      "path": "animated-emojis/Animals and Nature/Waxing Crescent Moon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Waxing Crescent Moon.webp"
+    },
+    {
+      "name": "Dog Face",
+      "slug": "dog-face",
+      "path": "animated-emojis/Animals and Nature/Dog Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Dog Face.webp"
+    },
+    {
+      "name": "Bird",
+      "slug": "bird",
+      "path": "animated-emojis/Animals and Nature/Bird.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Bird.webp"
+    },
+    {
+      "name": "Last Quarter Moon",
+      "slug": "last-quarter-moon",
+      "path": "animated-emojis/Animals and Nature/Last Quarter Moon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Last Quarter Moon.webp"
+    },
+    {
+      "name": "Sun With Face",
+      "slug": "sun-with-face",
+      "path": "animated-emojis/Animals and Nature/Sun With Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Sun With Face.webp"
+    },
+    {
+      "name": "Lobster",
+      "slug": "lobster",
+      "path": "animated-emojis/Animals and Nature/Lobster.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Lobster.webp"
+    },
+    {
+      "name": "Panda",
+      "slug": "panda",
+      "path": "animated-emojis/Animals and Nature/Panda.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Panda.webp"
+    },
+    {
+      "name": "Sun",
+      "slug": "sun",
+      "path": "animated-emojis/Animals and Nature/Sun.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Sun.webp"
+    },
+    {
+      "name": "Hedgehog",
+      "slug": "hedgehog",
+      "path": "animated-emojis/Animals and Nature/Hedgehog.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Hedgehog.webp"
+    },
+    {
+      "name": "Hibiscus",
+      "slug": "hibiscus",
+      "path": "animated-emojis/Animals and Nature/Hibiscus.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Hibiscus.webp"
+    },
+    {
+      "name": "Rabbit Face",
+      "slug": "rabbit-face",
+      "path": "animated-emojis/Animals and Nature/Rabbit Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Rabbit Face.webp"
+    },
+    {
+      "name": "Microbe",
+      "slug": "microbe",
+      "path": "animated-emojis/Animals and Nature/Microbe.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Microbe.webp"
+    },
+    {
+      "name": "Horse",
+      "slug": "horse",
+      "path": "animated-emojis/Animals and Nature/Horse.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Horse.webp"
+    },
+    {
+      "name": "Tropical Fish",
+      "slug": "tropical-fish",
+      "path": "animated-emojis/Animals and Nature/Tropical Fish.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Tropical Fish.webp"
+    },
+    {
+      "name": "Seal",
+      "slug": "seal",
+      "path": "animated-emojis/Animals and Nature/Seal.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Seal.webp"
+    },
+    {
+      "name": "Cloud With Rain",
+      "slug": "cloud-with-rain",
+      "path": "animated-emojis/Animals and Nature/Cloud With Rain.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cloud With Rain.webp"
+    },
+    {
+      "name": "Sun Behind Small Cloud",
+      "slug": "sun-behind-small-cloud",
+      "path": "animated-emojis/Animals and Nature/Sun Behind Small Cloud.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Sun Behind Small Cloud.webp"
+    },
+    {
+      "name": "Tulip",
+      "slug": "tulip",
+      "path": "animated-emojis/Animals and Nature/Tulip.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Tulip.webp"
+    },
+    {
+      "name": "First Quarter Moon",
+      "slug": "first-quarter-moon",
+      "path": "animated-emojis/Animals and Nature/First Quarter Moon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/First Quarter Moon.webp"
+    },
+    {
+      "name": "Fox",
+      "slug": "fox",
+      "path": "animated-emojis/Animals and Nature/Fox.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Fox.webp"
+    },
+    {
+      "name": "Lion",
+      "slug": "lion",
+      "path": "animated-emojis/Animals and Nature/Lion.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Lion.webp"
+    },
+    {
+      "name": "Cat",
+      "slug": "cat",
+      "path": "animated-emojis/Animals and Nature/Cat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cat.webp"
+    },
+    {
+      "name": "Waning Crescent Moon",
+      "slug": "waning-crescent-moon",
+      "path": "animated-emojis/Animals and Nature/Waning Crescent Moon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Waning Crescent Moon.webp"
+    },
+    {
+      "name": "Waxing Gibbous Moon",
+      "slug": "waxing-gibbous-moon",
+      "path": "animated-emojis/Animals and Nature/Waxing Gibbous Moon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Waxing Gibbous Moon.webp"
+    },
+    {
+      "name": "Bear",
+      "slug": "bear",
+      "path": "animated-emojis/Animals and Nature/Bear.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Bear.webp"
+    },
+    {
+      "name": "Snowman",
+      "slug": "snowman",
+      "path": "animated-emojis/Animals and Nature/Snowman.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Snowman.webp"
+    },
+    {
+      "name": "Raccoon",
+      "slug": "raccoon",
+      "path": "animated-emojis/Animals and Nature/Raccoon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Raccoon.webp"
+    },
+    {
+      "name": "Rabbit",
+      "slug": "rabbit",
+      "path": "animated-emojis/Animals and Nature/Rabbit.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Rabbit.webp"
+    },
+    {
+      "name": "Tiger Face",
+      "slug": "tiger-face",
+      "path": "animated-emojis/Animals and Nature/Tiger Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Tiger Face.webp"
+    },
+    {
+      "name": "Spider",
+      "slug": "spider",
+      "path": "animated-emojis/Animals and Nature/Spider.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Spider.webp"
+    },
+    {
+      "name": "Koala",
+      "slug": "koala",
+      "path": "animated-emojis/Animals and Nature/Koala.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Koala.webp"
+    },
+    {
+      "name": "Gorilla",
+      "slug": "gorilla",
+      "path": "animated-emojis/Animals and Nature/Gorilla.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Gorilla.webp"
+    },
+    {
+      "name": "Full Moon Face",
+      "slug": "full-moon-face",
+      "path": "animated-emojis/Animals and Nature/Full Moon Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Full Moon Face.webp"
+    },
+    {
+      "name": "Snowflake",
+      "slug": "snowflake",
+      "path": "animated-emojis/Animals and Nature/Snowflake.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Snowflake.webp"
+    },
+    {
+      "name": "Deer",
+      "slug": "deer",
+      "path": "animated-emojis/Animals and Nature/Deer.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Deer.webp"
+    },
+    {
+      "name": "Spouting Whale",
+      "slug": "spouting-whale",
+      "path": "animated-emojis/Animals and Nature/Spouting Whale.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Spouting Whale.webp"
+    },
+    {
+      "name": "Glowing Star",
+      "slug": "glowing-star",
+      "path": "animated-emojis/Animals and Nature/Glowing Star.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Glowing Star.webp"
+    },
+    {
+      "name": "Sun Behind Cloud",
+      "slug": "sun-behind-cloud",
+      "path": "animated-emojis/Animals and Nature/Sun Behind Cloud.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Sun Behind Cloud.webp"
+    },
+    {
+      "name": "Chicken",
+      "slug": "chicken",
+      "path": "animated-emojis/Animals and Nature/Chicken.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Chicken.webp"
+    },
+    {
+      "name": "Rosette",
+      "slug": "rosette",
+      "path": "animated-emojis/Animals and Nature/Rosette.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Rosette.webp"
+    },
+    {
+      "name": "High Voltage",
+      "slug": "high-voltage",
+      "path": "animated-emojis/Animals and Nature/High Voltage.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/High Voltage.webp"
+    },
+    {
+      "name": "Sauropod",
+      "slug": "sauropod",
+      "path": "animated-emojis/Animals and Nature/Sauropod.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Sauropod.webp"
+    },
+    {
+      "name": "Cactus",
+      "slug": "cactus",
+      "path": "animated-emojis/Animals and Nature/Cactus.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cactus.webp"
+    },
+    {
+      "name": "Lady Beetle",
+      "slug": "lady-beetle",
+      "path": "animated-emojis/Animals and Nature/Lady Beetle.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Lady Beetle.webp"
+    },
+    {
+      "name": "Star",
+      "slug": "star",
+      "path": "animated-emojis/Animals and Nature/Star.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Star.webp"
+    },
+    {
+      "name": "Bat",
+      "slug": "bat",
+      "path": "animated-emojis/Animals and Nature/Bat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Bat.webp"
+    },
+    {
+      "name": "Black Cat",
+      "slug": "black-cat",
+      "path": "animated-emojis/Animals and Nature/Black Cat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Black Cat.webp"
+    },
+    {
+      "name": "Snail",
+      "slug": "snail",
+      "path": "animated-emojis/Animals and Nature/Snail.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Snail.webp"
+    },
+    {
+      "name": "Frog",
+      "slug": "frog",
+      "path": "animated-emojis/Animals and Nature/Frog.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Frog.webp"
+    },
+    {
+      "name": "Baby Chick",
+      "slug": "baby-chick",
+      "path": "animated-emojis/Animals and Nature/Baby Chick.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Baby Chick.webp"
+    },
+    {
+      "name": "Blossom",
+      "slug": "blossom",
+      "path": "animated-emojis/Animals and Nature/Blossom.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Blossom.webp"
+    },
+    {
+      "name": "Spider Web",
+      "slug": "spider-web",
+      "path": "animated-emojis/Animals and Nature/Spider Web.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Spider Web.webp"
+    },
+    {
+      "name": "T Rex",
+      "slug": "t-rex",
+      "path": "animated-emojis/Animals and Nature/T Rex.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/T Rex.webp"
+    },
+    {
+      "name": "Ox",
+      "slug": "ox",
+      "path": "animated-emojis/Animals and Nature/Ox.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Ox.webp"
+    },
+    {
+      "name": "Rose",
+      "slug": "rose",
+      "path": "animated-emojis/Animals and Nature/Rose.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Rose.webp"
+    },
+    {
+      "name": "Cherry Blossom",
+      "slug": "cherry-blossom",
+      "path": "animated-emojis/Animals and Nature/Cherry Blossom.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Cherry Blossom.webp"
+    },
+    {
+      "name": "Seedling",
+      "slug": "seedling",
+      "path": "animated-emojis/Animals and Nature/Seedling.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Animals and Nature/Seedling.webp"
+    }
+  ],
+  "Activity": [
+    {
+      "name": "1st Place Medal",
+      "slug": "1st-place-medal",
+      "path": "animated-emojis/Activity/1st Place Medal.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/1st Place Medal.webp"
+    },
+    {
+      "name": "Basketball",
+      "slug": "basketball",
+      "path": "animated-emojis/Activity/Basketball.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Basketball.webp"
+    },
+    {
+      "name": "Fireworks",
+      "slug": "fireworks",
+      "path": "animated-emojis/Activity/Fireworks.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Fireworks.webp"
+    },
+    {
+      "name": "Sports Medal",
+      "slug": "sports-medal",
+      "path": "animated-emojis/Activity/Sports Medal.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Sports Medal.webp"
+    },
+    {
+      "name": "Magic Wand",
+      "slug": "magic-wand",
+      "path": "animated-emojis/Activity/Magic Wand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Magic Wand.webp"
+    },
+    {
+      "name": "Mirror Ball",
+      "slug": "mirror-ball",
+      "path": "animated-emojis/Activity/Mirror Ball.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Mirror Ball.webp"
+    },
+    {
+      "name": "Trophy",
+      "slug": "trophy",
+      "path": "animated-emojis/Activity/Trophy.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Trophy.webp"
+    },
+    {
+      "name": "Sparkler",
+      "slug": "sparkler",
+      "path": "animated-emojis/Activity/Sparkler.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Sparkler.webp"
+    },
+    {
+      "name": "Artist Palette",
+      "slug": "artist-palette",
+      "path": "animated-emojis/Activity/Artist Palette.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Artist Palette.webp"
+    },
+    {
+      "name": "Party Popper",
+      "slug": "party-popper",
+      "path": "animated-emojis/Activity/Party Popper.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Party Popper.webp"
+    },
+    {
+      "name": "Military Medal",
+      "slug": "military-medal",
+      "path": "animated-emojis/Activity/Military Medal.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Military Medal.webp"
+    },
+    {
+      "name": "Christmas Tree",
+      "slug": "christmas-tree",
+      "path": "animated-emojis/Activity/Christmas Tree.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Christmas Tree.webp"
+    },
+    {
+      "name": "3rd Place Medal",
+      "slug": "3rd-place-medal",
+      "path": "animated-emojis/Activity/3rd Place Medal.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/3rd Place Medal.webp"
+    },
+    {
+      "name": "Admission Tickets",
+      "slug": "admission-tickets",
+      "path": "animated-emojis/Activity/Admission Tickets.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Admission Tickets.webp"
+    },
+    {
+      "name": "Jack O Lantern",
+      "slug": "jack-o-lantern",
+      "path": "animated-emojis/Activity/Jack O Lantern.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Jack O Lantern.webp"
+    },
+    {
+      "name": "2nd Place Medal",
+      "slug": "2nd-place-medal",
+      "path": "animated-emojis/Activity/2nd Place Medal.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/2nd Place Medal.webp"
+    },
+    {
+      "name": "Performing Arts",
+      "slug": "performing-arts",
+      "path": "animated-emojis/Activity/Performing Arts.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Performing Arts.webp"
+    },
+    {
+      "name": "Ticket",
+      "slug": "ticket",
+      "path": "animated-emojis/Activity/Ticket.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Ticket.webp"
+    },
+    {
+      "name": "Firecracker",
+      "slug": "firecracker",
+      "path": "animated-emojis/Activity/Firecracker.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Firecracker.webp"
+    },
+    {
+      "name": "Video Game",
+      "slug": "video-game",
+      "path": "animated-emojis/Activity/Video Game.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Video Game.webp"
+    },
+    {
+      "name": "Soccer Ball",
+      "slug": "soccer-ball",
+      "path": "animated-emojis/Activity/Soccer Ball.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Soccer Ball.webp"
+    },
+    {
+      "name": "Crystal Ball",
+      "slug": "crystal-ball",
+      "path": "animated-emojis/Activity/Crystal Ball.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Crystal Ball.webp"
+    },
+    {
+      "name": "Confetti Ball",
+      "slug": "confetti-ball",
+      "path": "animated-emojis/Activity/Confetti Ball.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Confetti Ball.webp"
+    },
+    {
+      "name": "Balloon",
+      "slug": "balloon",
+      "path": "animated-emojis/Activity/Balloon.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Balloon.webp"
+    },
+    {
+      "name": "Sparkles",
+      "slug": "sparkles",
+      "path": "animated-emojis/Activity/Sparkles.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Activity/Sparkles.webp"
+    }
+  ],
+  "Smileys": [
+    {
+      "name": "Frowning Face",
+      "slug": "frowning-face",
+      "path": "animated-emojis/Smileys/Frowning Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Frowning Face.webp"
+    },
+    {
+      "name": "Grinning Squinting Face",
+      "slug": "grinning-squinting-face",
+      "path": "animated-emojis/Smileys/Grinning Squinting Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Grinning Squinting Face.webp"
+    },
+    {
+      "name": "Pile Of Poo",
+      "slug": "pile-of-poo",
+      "path": "animated-emojis/Smileys/Pile Of Poo.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Pile Of Poo.webp"
+    },
+    {
+      "name": "Weary Cat",
+      "slug": "weary-cat",
+      "path": "animated-emojis/Smileys/Weary Cat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Weary Cat.webp"
+    },
+    {
+      "name": "Worried Face",
+      "slug": "worried-face",
+      "path": "animated-emojis/Smileys/Worried Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Worried Face.webp"
+    },
+    {
+      "name": "Hugging Face",
+      "slug": "hugging-face",
+      "path": "animated-emojis/Smileys/Hugging Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Hugging Face.webp"
+    },
+    {
+      "name": "Money Mouth Face",
+      "slug": "money-mouth-face",
+      "path": "animated-emojis/Smileys/Money Mouth Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Money Mouth Face.webp"
+    },
+    {
+      "name": "Face With Head Bandage",
+      "slug": "face-with-head-bandage",
+      "path": "animated-emojis/Smileys/Face With Head Bandage.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Head Bandage.webp"
+    },
+    {
+      "name": "Grinning Face With Smiling Eyes",
+      "slug": "grinning-face-with-smiling-eyes",
+      "path": "animated-emojis/Smileys/Grinning Face With Smiling Eyes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Grinning Face With Smiling Eyes.webp"
+    },
+    {
+      "name": "Hear No Evil Monkey",
+      "slug": "hear-no-evil-monkey",
+      "path": "animated-emojis/Smileys/Hear No Evil Monkey.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Hear No Evil Monkey.webp"
+    },
+    {
+      "name": "Saluting Face",
+      "slug": "saluting-face",
+      "path": "animated-emojis/Smileys/Saluting Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Saluting Face.webp"
+    },
+    {
+      "name": "Crying Face",
+      "slug": "crying-face",
+      "path": "animated-emojis/Smileys/Crying Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Crying Face.webp"
+    },
+    {
+      "name": "Sneezing Face",
+      "slug": "sneezing-face",
+      "path": "animated-emojis/Smileys/Sneezing Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Sneezing Face.webp"
+    },
+    {
+      "name": "Smiling Face With Horns",
+      "slug": "smiling-face-with-horns",
+      "path": "animated-emojis/Smileys/Smiling Face With Horns.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Smiling Face With Horns.webp"
+    },
+    {
+      "name": "Persevering Face",
+      "slug": "persevering-face",
+      "path": "animated-emojis/Smileys/Persevering Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Persevering Face.webp"
+    },
+    {
+      "name": "Zipper Mouth Face",
+      "slug": "zipper-mouth-face",
+      "path": "animated-emojis/Smileys/Zipper Mouth Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Zipper Mouth Face.webp"
+    },
+    {
+      "name": "Cat With Tears Of Joy",
+      "slug": "cat-with-tears-of-joy",
+      "path": "animated-emojis/Smileys/Cat With Tears Of Joy.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Cat With Tears Of Joy.webp"
+    },
+    {
+      "name": "Astonished Face",
+      "slug": "astonished-face",
+      "path": "animated-emojis/Smileys/Astonished Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Astonished Face.webp"
+    },
+    {
+      "name": "Sleepy Face",
+      "slug": "sleepy-face",
+      "path": "animated-emojis/Smileys/Sleepy Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Sleepy Face.webp"
+    },
+    {
+      "name": "Face Blowing A Kiss",
+      "slug": "face-blowing-a-kiss",
+      "path": "animated-emojis/Smileys/Face Blowing A Kiss.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face Blowing A Kiss.webp"
+    },
+    {
+      "name": "Face With Hand Over Mouth",
+      "slug": "face-with-hand-over-mouth",
+      "path": "animated-emojis/Smileys/Face With Hand Over Mouth.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Hand Over Mouth.webp"
+    },
+    {
+      "name": "Face With Rolling Eyes",
+      "slug": "face-with-rolling-eyes",
+      "path": "animated-emojis/Smileys/Face With Rolling Eyes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Rolling Eyes.webp"
+    },
+    {
+      "name": "Zany Face",
+      "slug": "zany-face",
+      "path": "animated-emojis/Smileys/Zany Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Zany Face.webp"
+    },
+    {
+      "name": "Smiling Face With Tear",
+      "slug": "smiling-face-with-tear",
+      "path": "animated-emojis/Smileys/Smiling Face With Tear.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Smiling Face With Tear.webp"
+    },
+    {
+      "name": "Face With Symbols On Mouth",
+      "slug": "face-with-symbols-on-mouth",
+      "path": "animated-emojis/Smileys/Face With Symbols On Mouth.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Symbols On Mouth.webp"
+    },
+    {
+      "name": "Face Exhaling",
+      "slug": "face-exhaling",
+      "path": "animated-emojis/Smileys/Face Exhaling.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face Exhaling.webp"
+    },
+    {
+      "name": "Alien Monster",
+      "slug": "alien-monster",
+      "path": "animated-emojis/Smileys/Alien Monster.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Alien Monster.webp"
+    },
+    {
+      "name": "Downcast Face With Sweat",
+      "slug": "downcast-face-with-sweat",
+      "path": "animated-emojis/Smileys/Downcast Face With Sweat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Downcast Face With Sweat.webp"
+    },
+    {
+      "name": "Grinning Cat With Smiling Eyes",
+      "slug": "grinning-cat-with-smiling-eyes",
+      "path": "animated-emojis/Smileys/Grinning Cat With Smiling Eyes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Grinning Cat With Smiling Eyes.webp"
+    },
+    {
+      "name": "Skull",
+      "slug": "skull",
+      "path": "animated-emojis/Smileys/Skull.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Skull.webp"
+    },
+    {
+      "name": "Face Screaming In Fear",
+      "slug": "face-screaming-in-fear",
+      "path": "animated-emojis/Smileys/Face Screaming In Fear.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face Screaming In Fear.webp"
+    },
+    {
+      "name": "Anxious Face With Sweat",
+      "slug": "anxious-face-with-sweat",
+      "path": "animated-emojis/Smileys/Anxious Face With Sweat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Anxious Face With Sweat.webp"
+    },
+    {
+      "name": "Angry Face With Horns",
+      "slug": "angry-face-with-horns",
+      "path": "animated-emojis/Smileys/Angry Face With Horns.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Angry Face With Horns.webp"
+    },
+    {
+      "name": "Smiling Face With Halo",
+      "slug": "smiling-face-with-halo",
+      "path": "animated-emojis/Smileys/Smiling Face With Halo.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Smiling Face With Halo.webp"
+    },
+    {
+      "name": "Beaming Face With Smiling Eyes",
+      "slug": "beaming-face-with-smiling-eyes",
+      "path": "animated-emojis/Smileys/Beaming Face With Smiling Eyes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Beaming Face With Smiling Eyes.webp"
+    },
+    {
+      "name": "Smiling Face",
+      "slug": "smiling-face",
+      "path": "animated-emojis/Smileys/Smiling Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Smiling Face.webp"
+    },
+    {
+      "name": "Smiling Face With Sunglasses",
+      "slug": "smiling-face-with-sunglasses",
+      "path": "animated-emojis/Smileys/Smiling Face With Sunglasses.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Smiling Face With Sunglasses.webp"
+    },
+    {
+      "name": "Loudly Crying Face",
+      "slug": "loudly-crying-face",
+      "path": "animated-emojis/Smileys/Loudly Crying Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Loudly Crying Face.webp"
+    },
+    {
+      "name": "Sleeping Face",
+      "slug": "sleeping-face",
+      "path": "animated-emojis/Smileys/Sleeping Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Sleeping Face.webp"
+    },
+    {
+      "name": "Angry Face",
+      "slug": "angry-face",
+      "path": "animated-emojis/Smileys/Angry Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Angry Face.webp"
+    },
+    {
+      "name": "Grinning Cat",
+      "slug": "grinning-cat",
+      "path": "animated-emojis/Smileys/Grinning Cat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Grinning Cat.webp"
+    },
+    {
+      "name": "Face In Clouds",
+      "slug": "face-in-clouds",
+      "path": "animated-emojis/Smileys/Face In Clouds.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face In Clouds.webp"
+    },
+    {
+      "name": "Grinning Face With Sweat",
+      "slug": "grinning-face-with-sweat",
+      "path": "animated-emojis/Smileys/Grinning Face With Sweat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Grinning Face With Sweat.webp"
+    },
+    {
+      "name": "Unamused Face",
+      "slug": "unamused-face",
+      "path": "animated-emojis/Smileys/Unamused Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Unamused Face.webp"
+    },
+    {
+      "name": "Face With Open Mouth",
+      "slug": "face-with-open-mouth",
+      "path": "animated-emojis/Smileys/Face With Open Mouth.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Open Mouth.webp"
+    },
+    {
+      "name": "Exploding Head",
+      "slug": "exploding-head",
+      "path": "animated-emojis/Smileys/Exploding Head.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Exploding Head.webp"
+    },
+    {
+      "name": "Nerd Face",
+      "slug": "nerd-face",
+      "path": "animated-emojis/Smileys/Nerd Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Nerd Face.webp"
+    },
+    {
+      "name": "Pouting Cat",
+      "slug": "pouting-cat",
+      "path": "animated-emojis/Smileys/Pouting Cat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Pouting Cat.webp"
+    },
+    {
+      "name": "Tired Face",
+      "slug": "tired-face",
+      "path": "animated-emojis/Smileys/Tired Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Tired Face.webp"
+    },
+    {
+      "name": "Face With Tongue",
+      "slug": "face-with-tongue",
+      "path": "animated-emojis/Smileys/Face With Tongue.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Tongue.webp"
+    },
+    {
+      "name": "Disappointed Face",
+      "slug": "disappointed-face",
+      "path": "animated-emojis/Smileys/Disappointed Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Disappointed Face.webp"
+    },
+    {
+      "name": "Smirking Face",
+      "slug": "smirking-face",
+      "path": "animated-emojis/Smileys/Smirking Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Smirking Face.webp"
+    },
+    {
+      "name": "Disguised Face",
+      "slug": "disguised-face",
+      "path": "animated-emojis/Smileys/Disguised Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Disguised Face.webp"
+    },
+    {
+      "name": "Yawning Face",
+      "slug": "yawning-face",
+      "path": "animated-emojis/Smileys/Yawning Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Yawning Face.webp"
+    },
+    {
+      "name": "Drooling Face",
+      "slug": "drooling-face",
+      "path": "animated-emojis/Smileys/Drooling Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Drooling Face.webp"
+    },
+    {
+      "name": "Face With Monocle",
+      "slug": "face-with-monocle",
+      "path": "animated-emojis/Smileys/Face With Monocle.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Monocle.webp"
+    },
+    {
+      "name": "Smiling Cat With Heart Eyes",
+      "slug": "smiling-cat-with-heart-eyes",
+      "path": "animated-emojis/Smileys/Smiling Cat With Heart Eyes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Smiling Cat With Heart Eyes.webp"
+    },
+    {
+      "name": "Confounded Face",
+      "slug": "confounded-face",
+      "path": "animated-emojis/Smileys/Confounded Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Confounded Face.webp"
+    },
+    {
+      "name": "Smiling Face With Hearts",
+      "slug": "smiling-face-with-hearts",
+      "path": "animated-emojis/Smileys/Smiling Face With Hearts.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Smiling Face With Hearts.webp"
+    },
+    {
+      "name": "Face Savoring Food",
+      "slug": "face-savoring-food",
+      "path": "animated-emojis/Smileys/Face Savoring Food.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face Savoring Food.webp"
+    },
+    {
+      "name": "Thinking Face",
+      "slug": "thinking-face",
+      "path": "animated-emojis/Smileys/Thinking Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Thinking Face.webp"
+    },
+    {
+      "name": "Lying Face",
+      "slug": "lying-face",
+      "path": "animated-emojis/Smileys/Lying Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Lying Face.webp"
+    },
+    {
+      "name": "Hushed Face",
+      "slug": "hushed-face",
+      "path": "animated-emojis/Smileys/Hushed Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Hushed Face.webp"
+    },
+    {
+      "name": "Star Struck",
+      "slug": "star-struck",
+      "path": "animated-emojis/Smileys/Star Struck.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Star Struck.webp"
+    },
+    {
+      "name": "Face Holding Back Tears",
+      "slug": "face-holding-back-tears",
+      "path": "animated-emojis/Smileys/Face Holding Back Tears.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face Holding Back Tears.webp"
+    },
+    {
+      "name": "Hot Face",
+      "slug": "hot-face",
+      "path": "animated-emojis/Smileys/Hot Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Hot Face.webp"
+    },
+    {
+      "name": "Cowboy Hat Face",
+      "slug": "cowboy-hat-face",
+      "path": "animated-emojis/Smileys/Cowboy Hat Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Cowboy Hat Face.webp"
+    },
+    {
+      "name": "Winking Face",
+      "slug": "winking-face",
+      "path": "animated-emojis/Smileys/Winking Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Winking Face.webp"
+    },
+    {
+      "name": "Face With Steam From Nose",
+      "slug": "face-with-steam-from-nose",
+      "path": "animated-emojis/Smileys/Face With Steam From Nose.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Steam From Nose.webp"
+    },
+    {
+      "name": "Face With Thermometer",
+      "slug": "face-with-thermometer",
+      "path": "animated-emojis/Smileys/Face With Thermometer.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Thermometer.webp"
+    },
+    {
+      "name": "Melting Face",
+      "slug": "melting-face",
+      "path": "animated-emojis/Smileys/Melting Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Melting Face.webp"
+    },
+    {
+      "name": "Pouting Face",
+      "slug": "pouting-face",
+      "path": "animated-emojis/Smileys/Pouting Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Pouting Face.webp"
+    },
+    {
+      "name": "Kissing Face With Closed Eyes",
+      "slug": "kissing-face-with-closed-eyes",
+      "path": "animated-emojis/Smileys/Kissing Face With Closed Eyes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Kissing Face With Closed Eyes.webp"
+    },
+    {
+      "name": "Fearful Face",
+      "slug": "fearful-face",
+      "path": "animated-emojis/Smileys/Fearful Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Fearful Face.webp"
+    },
+    {
+      "name": "Face With Medical Mask",
+      "slug": "face-with-medical-mask",
+      "path": "animated-emojis/Smileys/Face With Medical Mask.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Medical Mask.webp"
+    },
+    {
+      "name": "Frowning Face With Open Mouth",
+      "slug": "frowning-face-with-open-mouth",
+      "path": "animated-emojis/Smileys/Frowning Face With Open Mouth.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Frowning Face With Open Mouth.webp"
+    },
+    {
+      "name": "Smiling Face With Smiling Eyes",
+      "slug": "smiling-face-with-smiling-eyes",
+      "path": "animated-emojis/Smileys/Smiling Face With Smiling Eyes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Smiling Face With Smiling Eyes.webp"
+    },
+    {
+      "name": "Ogre",
+      "slug": "ogre",
+      "path": "animated-emojis/Smileys/Ogre.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Ogre.webp"
+    },
+    {
+      "name": "Weary Face",
+      "slug": "weary-face",
+      "path": "animated-emojis/Smileys/Weary Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Weary Face.webp"
+    },
+    {
+      "name": "Anguished Face",
+      "slug": "anguished-face",
+      "path": "animated-emojis/Smileys/Anguished Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Anguished Face.webp"
+    },
+    {
+      "name": "Speak No Evil Monkey",
+      "slug": "speak-no-evil-monkey",
+      "path": "animated-emojis/Smileys/Speak No Evil Monkey.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Speak No Evil Monkey.webp"
+    },
+    {
+      "name": "Alien",
+      "slug": "alien",
+      "path": "animated-emojis/Smileys/Alien.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Alien.webp"
+    },
+    {
+      "name": "Face Without Mouth",
+      "slug": "face-without-mouth",
+      "path": "animated-emojis/Smileys/Face Without Mouth.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face Without Mouth.webp"
+    },
+    {
+      "name": "Flushed Face",
+      "slug": "flushed-face",
+      "path": "animated-emojis/Smileys/Flushed Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Flushed Face.webp"
+    },
+    {
+      "name": "Face With Diagonal Mouth",
+      "slug": "face-with-diagonal-mouth",
+      "path": "animated-emojis/Smileys/Face With Diagonal Mouth.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Diagonal Mouth.webp"
+    },
+    {
+      "name": "Ghost",
+      "slug": "ghost",
+      "path": "animated-emojis/Smileys/Ghost.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Ghost.webp"
+    },
+    {
+      "name": "Skull And Crossbones",
+      "slug": "skull-and-crossbones",
+      "path": "animated-emojis/Smileys/Skull And Crossbones.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Skull And Crossbones.webp"
+    },
+    {
+      "name": "See No Evil Monkey",
+      "slug": "see-no-evil-monkey",
+      "path": "animated-emojis/Smileys/See No Evil Monkey.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/See No Evil Monkey.webp"
+    },
+    {
+      "name": "Kissing Face",
+      "slug": "kissing-face",
+      "path": "animated-emojis/Smileys/Kissing Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Kissing Face.webp"
+    },
+    {
+      "name": "Grinning Face With Big Eyes",
+      "slug": "grinning-face-with-big-eyes",
+      "path": "animated-emojis/Smileys/Grinning Face With Big Eyes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Grinning Face With Big Eyes.webp"
+    },
+    {
+      "name": "Slightly Frowning Face",
+      "slug": "slightly-frowning-face",
+      "path": "animated-emojis/Smileys/Slightly Frowning Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Slightly Frowning Face.webp"
+    },
+    {
+      "name": "Face With Open Eyes And Hand Over Mouth",
+      "slug": "face-with-open-eyes-and-hand-over-mouth",
+      "path": "animated-emojis/Smileys/Face With Open Eyes And Hand Over Mouth.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Open Eyes And Hand Over Mouth.webp"
+    },
+    {
+      "name": "Woozy Face",
+      "slug": "woozy-face",
+      "path": "animated-emojis/Smileys/Woozy Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Woozy Face.webp"
+    },
+    {
+      "name": "Goblin",
+      "slug": "goblin",
+      "path": "animated-emojis/Smileys/Goblin.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Goblin.webp"
+    },
+    {
+      "name": "Grinning Face",
+      "slug": "grinning-face",
+      "path": "animated-emojis/Smileys/Grinning Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Grinning Face.webp"
+    },
+    {
+      "name": "Face With Spiral Eyes",
+      "slug": "face-with-spiral-eyes",
+      "path": "animated-emojis/Smileys/Face With Spiral Eyes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Spiral Eyes.webp"
+    },
+    {
+      "name": "Slightly Smiling Face",
+      "slug": "slightly-smiling-face",
+      "path": "animated-emojis/Smileys/Slightly Smiling Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Slightly Smiling Face.webp"
+    },
+    {
+      "name": "Pensive Face",
+      "slug": "pensive-face",
+      "path": "animated-emojis/Smileys/Pensive Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Pensive Face.webp"
+    },
+    {
+      "name": "Cat With Wry Smile",
+      "slug": "cat-with-wry-smile",
+      "path": "animated-emojis/Smileys/Cat With Wry Smile.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Cat With Wry Smile.webp"
+    },
+    {
+      "name": "Partying Face",
+      "slug": "partying-face",
+      "path": "animated-emojis/Smileys/Partying Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Partying Face.webp"
+    },
+    {
+      "name": "Expressionless Face",
+      "slug": "expressionless-face",
+      "path": "animated-emojis/Smileys/Expressionless Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Expressionless Face.webp"
+    },
+    {
+      "name": "Sad But Relieved Face",
+      "slug": "sad-but-relieved-face",
+      "path": "animated-emojis/Smileys/Sad But Relieved Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Sad But Relieved Face.webp"
+    },
+    {
+      "name": "Dotted Line Face",
+      "slug": "dotted-line-face",
+      "path": "animated-emojis/Smileys/Dotted Line Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Dotted Line Face.webp"
+    },
+    {
+      "name": "Confused Face",
+      "slug": "confused-face",
+      "path": "animated-emojis/Smileys/Confused Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Confused Face.webp"
+    },
+    {
+      "name": "Winking Face With Tongue",
+      "slug": "winking-face-with-tongue",
+      "path": "animated-emojis/Smileys/Winking Face With Tongue.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Winking Face With Tongue.webp"
+    },
+    {
+      "name": "Robot",
+      "slug": "robot",
+      "path": "animated-emojis/Smileys/Robot.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Robot.webp"
+    },
+    {
+      "name": "Pleading Face",
+      "slug": "pleading-face",
+      "path": "animated-emojis/Smileys/Pleading Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Pleading Face.webp"
+    },
+    {
+      "name": "Face With Raised Eyebrow",
+      "slug": "face-with-raised-eyebrow",
+      "path": "animated-emojis/Smileys/Face With Raised Eyebrow.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Raised Eyebrow.webp"
+    },
+    {
+      "name": "Upside Down Face",
+      "slug": "upside-down-face",
+      "path": "animated-emojis/Smileys/Upside Down Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Upside Down Face.webp"
+    },
+    {
+      "name": "Shushing Face",
+      "slug": "shushing-face",
+      "path": "animated-emojis/Smileys/Shushing Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Shushing Face.webp"
+    },
+    {
+      "name": "Clown Face",
+      "slug": "clown-face",
+      "path": "animated-emojis/Smileys/Clown Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Clown Face.webp"
+    },
+    {
+      "name": "Face With Tears Of Joy",
+      "slug": "face-with-tears-of-joy",
+      "path": "animated-emojis/Smileys/Face With Tears Of Joy.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Tears Of Joy.webp"
+    },
+    {
+      "name": "Kissing Cat",
+      "slug": "kissing-cat",
+      "path": "animated-emojis/Smileys/Kissing Cat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Kissing Cat.webp"
+    },
+    {
+      "name": "Face With Peeking Eye",
+      "slug": "face-with-peeking-eye",
+      "path": "animated-emojis/Smileys/Face With Peeking Eye.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face With Peeking Eye.webp"
+    },
+    {
+      "name": "Grimacing Face",
+      "slug": "grimacing-face",
+      "path": "animated-emojis/Smileys/Grimacing Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Grimacing Face.webp"
+    },
+    {
+      "name": "Relieved Face",
+      "slug": "relieved-face",
+      "path": "animated-emojis/Smileys/Relieved Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Relieved Face.webp"
+    },
+    {
+      "name": "Rolling On The Floor Laughing",
+      "slug": "rolling-on-the-floor-laughing",
+      "path": "animated-emojis/Smileys/Rolling On The Floor Laughing.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Rolling On The Floor Laughing.webp"
+    },
+    {
+      "name": "Dizzy Face",
+      "slug": "dizzy-face",
+      "path": "animated-emojis/Smileys/Dizzy Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Dizzy Face.webp"
+    },
+    {
+      "name": "Cold Face",
+      "slug": "cold-face",
+      "path": "animated-emojis/Smileys/Cold Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Cold Face.webp"
+    },
+    {
+      "name": "Neutral Face",
+      "slug": "neutral-face",
+      "path": "animated-emojis/Smileys/Neutral Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Neutral Face.webp"
+    },
+    {
+      "name": "Squinting Face With Tongue",
+      "slug": "squinting-face-with-tongue",
+      "path": "animated-emojis/Smileys/Squinting Face With Tongue.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Squinting Face With Tongue.webp"
+    },
+    {
+      "name": "Crying Cat",
+      "slug": "crying-cat",
+      "path": "animated-emojis/Smileys/Crying Cat.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Crying Cat.webp"
+    },
+    {
+      "name": "Nauseated Face",
+      "slug": "nauseated-face",
+      "path": "animated-emojis/Smileys/Nauseated Face.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Nauseated Face.webp"
+    },
+    {
+      "name": "Face Vomiting",
+      "slug": "face-vomiting",
+      "path": "animated-emojis/Smileys/Face Vomiting.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/Smileys/Face Vomiting.webp"
+    }
+  ],
+  "People": [
+    {
+      "name": "Index Pointing At The Viewer",
+      "slug": "index-pointing-at-the-viewer",
+      "path": "animated-emojis/People/Index Pointing At The Viewer.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Index Pointing At The Viewer.webp"
+    },
+    {
+      "name": "Hand With Fingers Splayed",
+      "slug": "hand-with-fingers-splayed",
+      "path": "animated-emojis/People/Hand With Fingers Splayed.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Hand With Fingers Splayed.webp"
+    },
+    {
+      "name": "Palm Down Hand",
+      "slug": "palm-down-hand",
+      "path": "animated-emojis/People/Palm Down Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Palm Down Hand.webp"
+    },
+    {
+      "name": "Technologist",
+      "slug": "technologist",
+      "path": "animated-emojis/People/Technologist.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Technologist.webp"
+    },
+    {
+      "name": "Backhand Index Pointing Up",
+      "slug": "backhand-index-pointing-up",
+      "path": "animated-emojis/People/Backhand Index Pointing Up.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Backhand Index Pointing Up.webp"
+    },
+    {
+      "name": "Raising Hands",
+      "slug": "raising-hands",
+      "path": "animated-emojis/People/Raising Hands.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Raising Hands.webp"
+    },
+    {
+      "name": "Handshake",
+      "slug": "handshake",
+      "path": "animated-emojis/People/Handshake.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Handshake.webp"
+    },
+    {
+      "name": "Raised Hand",
+      "slug": "raised-hand",
+      "path": "animated-emojis/People/Raised Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Raised Hand.webp"
+    },
+    {
+      "name": "Flexed Biceps",
+      "slug": "flexed-biceps",
+      "path": "animated-emojis/People/Flexed Biceps.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Flexed Biceps.webp"
+    },
+    {
+      "name": "Man Technologist",
+      "slug": "man-technologist",
+      "path": "animated-emojis/People/Man Technologist.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Man Technologist.webp"
+    },
+    {
+      "name": "Index Pointing Up",
+      "slug": "index-pointing-up",
+      "path": "animated-emojis/People/Index Pointing Up.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Index Pointing Up.webp"
+    },
+    {
+      "name": "Leg",
+      "slug": "leg",
+      "path": "animated-emojis/People/Leg.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Leg.webp"
+    },
+    {
+      "name": "Foot",
+      "slug": "foot",
+      "path": "animated-emojis/People/Foot.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Foot.webp"
+    },
+    {
+      "name": "Eyes",
+      "slug": "eyes",
+      "path": "animated-emojis/People/Eyes.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Eyes.webp"
+    },
+    {
+      "name": "Footprints",
+      "slug": "footprints",
+      "path": "animated-emojis/People/Footprints.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Footprints.webp"
+    },
+    {
+      "name": "Woman Police Officer",
+      "slug": "woman-police-officer",
+      "path": "animated-emojis/People/Woman Police Officer.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Woman Police Officer.webp"
+    },
+    {
+      "name": "Mrs Claus",
+      "slug": "mrs-claus",
+      "path": "animated-emojis/People/Mrs Claus.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Mrs Claus.webp"
+    },
+    {
+      "name": "Man Vampire",
+      "slug": "man-vampire",
+      "path": "animated-emojis/People/Man Vampire.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Man Vampire.webp"
+    },
+    {
+      "name": "People Hugging",
+      "slug": "people-hugging",
+      "path": "animated-emojis/People/People Hugging.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/People Hugging.webp"
+    },
+    {
+      "name": "Woman Shrugging",
+      "slug": "woman-shrugging",
+      "path": "animated-emojis/People/Woman Shrugging.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Woman Shrugging.webp"
+    },
+    {
+      "name": "Pregnant Woman",
+      "slug": "pregnant-woman",
+      "path": "animated-emojis/People/Pregnant Woman.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Pregnant Woman.webp"
+    },
+    {
+      "name": "Raised Fist",
+      "slug": "raised-fist",
+      "path": "animated-emojis/People/Raised Fist.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Raised Fist.webp"
+    },
+    {
+      "name": "Man Zombie",
+      "slug": "man-zombie",
+      "path": "animated-emojis/People/Man Zombie.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Man Zombie.webp"
+    },
+    {
+      "name": "Man Police Officer",
+      "slug": "man-police-officer",
+      "path": "animated-emojis/People/Man Police Officer.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Man Police Officer.webp"
+    },
+    {
+      "name": "Tooth",
+      "slug": "tooth",
+      "path": "animated-emojis/People/Tooth.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Tooth.webp"
+    },
+    {
+      "name": "Busts In Silhouette",
+      "slug": "busts-in-silhouette",
+      "path": "animated-emojis/People/Busts In Silhouette.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Busts In Silhouette.webp"
+    },
+    {
+      "name": "Nail Polish",
+      "slug": "nail-polish",
+      "path": "animated-emojis/People/Nail Polish.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Nail Polish.webp"
+    },
+    {
+      "name": "Left Facing Fist",
+      "slug": "left-facing-fist",
+      "path": "animated-emojis/People/Left Facing Fist.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Left Facing Fist.webp"
+    },
+    {
+      "name": "Ear",
+      "slug": "ear",
+      "path": "animated-emojis/People/Ear.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Ear.webp"
+    },
+    {
+      "name": "Folded Hands",
+      "slug": "folded-hands",
+      "path": "animated-emojis/People/Folded Hands.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Folded Hands.webp"
+    },
+    {
+      "name": "Mx Claus",
+      "slug": "mx-claus",
+      "path": "animated-emojis/People/Mx Claus.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Mx Claus.webp"
+    },
+    {
+      "name": "Mechanical Leg",
+      "slug": "mechanical-leg",
+      "path": "animated-emojis/People/Mechanical Leg.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Mechanical Leg.webp"
+    },
+    {
+      "name": "Man Facepalming",
+      "slug": "man-facepalming",
+      "path": "animated-emojis/People/Man Facepalming.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Man Facepalming.webp"
+    },
+    {
+      "name": "Bust In Silhouette",
+      "slug": "bust-in-silhouette",
+      "path": "animated-emojis/People/Bust In Silhouette.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Bust In Silhouette.webp"
+    },
+    {
+      "name": "Man Health Worker",
+      "slug": "man-health-worker",
+      "path": "animated-emojis/People/Man Health Worker.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Man Health Worker.webp"
+    },
+    {
+      "name": "Backhand Index Pointing Down",
+      "slug": "backhand-index-pointing-down",
+      "path": "animated-emojis/People/Backhand Index Pointing Down.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Backhand Index Pointing Down.webp"
+    },
+    {
+      "name": "Palm Up Hand",
+      "slug": "palm-up-hand",
+      "path": "animated-emojis/People/Palm Up Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Palm Up Hand.webp"
+    },
+    {
+      "name": "Biting Lip",
+      "slug": "biting-lip",
+      "path": "animated-emojis/People/Biting Lip.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Biting Lip.webp"
+    },
+    {
+      "name": "Love You Gesture",
+      "slug": "love-you-gesture",
+      "path": "animated-emojis/People/Love You Gesture.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Love You Gesture.webp"
+    },
+    {
+      "name": "Man Dancing",
+      "slug": "man-dancing",
+      "path": "animated-emojis/People/Man Dancing.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Man Dancing.webp"
+    },
+    {
+      "name": "Person Facepalming",
+      "slug": "person-facepalming",
+      "path": "animated-emojis/People/Person Facepalming.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Person Facepalming.webp"
+    },
+    {
+      "name": "Speaking Head",
+      "slug": "speaking-head",
+      "path": "animated-emojis/People/Speaking Head.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Speaking Head.webp"
+    },
+    {
+      "name": "Zombie",
+      "slug": "zombie",
+      "path": "animated-emojis/People/Zombie.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Zombie.webp"
+    },
+    {
+      "name": "Vulcan Salute",
+      "slug": "vulcan-salute",
+      "path": "animated-emojis/People/Vulcan Salute.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Vulcan Salute.webp"
+    },
+    {
+      "name": "Woman Vampire",
+      "slug": "woman-vampire",
+      "path": "animated-emojis/People/Woman Vampire.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Woman Vampire.webp"
+    },
+    {
+      "name": "Bone",
+      "slug": "bone",
+      "path": "animated-emojis/People/Bone.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Bone.webp"
+    },
+    {
+      "name": "Heart Hands",
+      "slug": "heart-hands",
+      "path": "animated-emojis/People/Heart Hands.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Heart Hands.webp"
+    },
+    {
+      "name": "Baby",
+      "slug": "baby",
+      "path": "animated-emojis/People/Baby.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Baby.webp"
+    },
+    {
+      "name": "Nose",
+      "slug": "nose",
+      "path": "animated-emojis/People/Nose.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Nose.webp"
+    },
+    {
+      "name": "Old Woman",
+      "slug": "old-woman",
+      "path": "animated-emojis/People/Old Woman.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Old Woman.webp"
+    },
+    {
+      "name": "Man Shrugging",
+      "slug": "man-shrugging",
+      "path": "animated-emojis/People/Man Shrugging.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Man Shrugging.webp"
+    },
+    {
+      "name": "Oncoming Fist",
+      "slug": "oncoming-fist",
+      "path": "animated-emojis/People/Oncoming Fist.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Oncoming Fist.webp"
+    },
+    {
+      "name": "Call Me Hand",
+      "slug": "call-me-hand",
+      "path": "animated-emojis/People/Call Me Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Call Me Hand.webp"
+    },
+    {
+      "name": "Pinched Fingers",
+      "slug": "pinched-fingers",
+      "path": "animated-emojis/People/Pinched Fingers.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Pinched Fingers.webp"
+    },
+    {
+      "name": "Victory Hand",
+      "slug": "victory-hand",
+      "path": "animated-emojis/People/Victory Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Victory Hand.webp"
+    },
+    {
+      "name": "Hand With Index Finger And Thumb Crossed",
+      "slug": "hand-with-index-finger-and-thumb-crossed",
+      "path": "animated-emojis/People/Hand With Index Finger And Thumb Crossed.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Hand With Index Finger And Thumb Crossed.webp"
+    },
+    {
+      "name": "Right Facing Fist",
+      "slug": "right-facing-fist",
+      "path": "animated-emojis/People/Right Facing Fist.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Right Facing Fist.webp"
+    },
+    {
+      "name": "Waving Hand",
+      "slug": "waving-hand",
+      "path": "animated-emojis/People/Waving Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Waving Hand.webp"
+    },
+    {
+      "name": "Woman Facepalming",
+      "slug": "woman-facepalming",
+      "path": "animated-emojis/People/Woman Facepalming.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Woman Facepalming.webp"
+    },
+    {
+      "name": "Person Shrugging",
+      "slug": "person-shrugging",
+      "path": "animated-emojis/People/Person Shrugging.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Person Shrugging.webp"
+    },
+    {
+      "name": "Palms Up Together",
+      "slug": "palms-up-together",
+      "path": "animated-emojis/People/Palms Up Together.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Palms Up Together.webp"
+    },
+    {
+      "name": "Thumbs Up",
+      "slug": "thumbs-up",
+      "path": "animated-emojis/People/Thumbs Up.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Thumbs Up.webp"
+    },
+    {
+      "name": "Ear With Hearing Aid",
+      "slug": "ear-with-hearing-aid",
+      "path": "animated-emojis/People/Ear With Hearing Aid.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Ear With Hearing Aid.webp"
+    },
+    {
+      "name": "Open Hands",
+      "slug": "open-hands",
+      "path": "animated-emojis/People/Open Hands.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Open Hands.webp"
+    },
+    {
+      "name": "Rightwards Hand",
+      "slug": "rightwards-hand",
+      "path": "animated-emojis/People/Rightwards Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Rightwards Hand.webp"
+    },
+    {
+      "name": "Clapping Hands",
+      "slug": "clapping-hands",
+      "path": "animated-emojis/People/Clapping Hands.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Clapping Hands.webp"
+    },
+    {
+      "name": "Pinching Hand",
+      "slug": "pinching-hand",
+      "path": "animated-emojis/People/Pinching Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Pinching Hand.webp"
+    },
+    {
+      "name": "Mechanical Arm",
+      "slug": "mechanical-arm",
+      "path": "animated-emojis/People/Mechanical Arm.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Mechanical Arm.webp"
+    },
+    {
+      "name": "Backhand Index Pointing Left",
+      "slug": "backhand-index-pointing-left",
+      "path": "animated-emojis/People/Backhand Index Pointing Left.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Backhand Index Pointing Left.webp"
+    },
+    {
+      "name": "Woman Zombie",
+      "slug": "woman-zombie",
+      "path": "animated-emojis/People/Woman Zombie.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Woman Zombie.webp"
+    },
+    {
+      "name": "Raised Back Of Hand",
+      "slug": "raised-back-of-hand",
+      "path": "animated-emojis/People/Raised Back Of Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Raised Back Of Hand.webp"
+    },
+    {
+      "name": "Writing Hand",
+      "slug": "writing-hand",
+      "path": "animated-emojis/People/Writing Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Writing Hand.webp"
+    },
+    {
+      "name": "Sign Of The Horns",
+      "slug": "sign-of-the-horns",
+      "path": "animated-emojis/People/Sign Of The Horns.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Sign Of The Horns.webp"
+    },
+    {
+      "name": "Mouth",
+      "slug": "mouth",
+      "path": "animated-emojis/People/Mouth.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Mouth.webp"
+    },
+    {
+      "name": "Middle Finger",
+      "slug": "middle-finger",
+      "path": "animated-emojis/People/Middle Finger.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Middle Finger.webp"
+    },
+    {
+      "name": "Woman Health Worker",
+      "slug": "woman-health-worker",
+      "path": "animated-emojis/People/Woman Health Worker.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Woman Health Worker.webp"
+    },
+    {
+      "name": "Thumbs Down",
+      "slug": "thumbs-down",
+      "path": "animated-emojis/People/Thumbs Down.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Thumbs Down.webp"
+    },
+    {
+      "name": "Tongue",
+      "slug": "tongue",
+      "path": "animated-emojis/People/Tongue.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Tongue.webp"
+    },
+    {
+      "name": "Woman Technologist",
+      "slug": "woman-technologist",
+      "path": "animated-emojis/People/Woman Technologist.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Woman Technologist.webp"
+    },
+    {
+      "name": "Backhand Index Pointing Right",
+      "slug": "backhand-index-pointing-right",
+      "path": "animated-emojis/People/Backhand Index Pointing Right.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Backhand Index Pointing Right.webp"
+    },
+    {
+      "name": "Family Man Woman Girl Boy",
+      "slug": "family-man-woman-girl-boy",
+      "path": "animated-emojis/People/Family Man Woman Girl Boy.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Family Man Woman Girl Boy.webp"
+    },
+    {
+      "name": "Santa Claus",
+      "slug": "santa-claus",
+      "path": "animated-emojis/People/Santa Claus.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Santa Claus.webp"
+    },
+    {
+      "name": "Vampire",
+      "slug": "vampire",
+      "path": "animated-emojis/People/Vampire.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Vampire.webp"
+    },
+    {
+      "name": "Leftwards Hand",
+      "slug": "leftwards-hand",
+      "path": "animated-emojis/People/Leftwards Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Leftwards Hand.webp"
+    },
+    {
+      "name": "Woman Dancing",
+      "slug": "woman-dancing",
+      "path": "animated-emojis/People/Woman Dancing.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Woman Dancing.webp"
+    },
+    {
+      "name": "Man Teacher",
+      "slug": "man-teacher",
+      "path": "animated-emojis/People/Man Teacher.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Man Teacher.webp"
+    },
+    {
+      "name": "Ok Hand",
+      "slug": "ok-hand",
+      "path": "animated-emojis/People/Ok Hand.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Ok Hand.webp"
+    },
+    {
+      "name": "Crossed Fingers",
+      "slug": "crossed-fingers",
+      "path": "animated-emojis/People/Crossed Fingers.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Z-150/telegram-emojipedia-collection@main/animated-emojis/People/Crossed Fingers.webp"
+    }
+  ]
+}
